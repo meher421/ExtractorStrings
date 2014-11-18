@@ -37,27 +37,27 @@
     <string name="extract_success">Extracted to path :</string>
     <string name="share_msg">How do you want to share?</string>
     <string name="extracting_msg">Extracting &#8230;</string>
-    <string name="loading_msg">Loading applications &#8230;</string>
+    <string name="loading_msg">Analysing applications &#8230;</string>
     <string name="options_title_share">share</string>
     <string name="options_title_info">info</string>
     <string name="empty_folder">Empty Folder</string>
     <string name="create_directory">Create</string>
     <string name="set_dir_path">Set</string>
 
-    <string name="str_directory_exists">Directory already exists.</string>
-    <string name="str_invalid_dir_create">Directory cannot be created here.</string>
+    <string name="str_directory_exists">Directory already exists</string>
+    <string name="str_invalid_dir_create">Directory cannot be created here</string>
     <string name="str_invalid_dir_set">Cannot set this directory.</string>
 
     <!--error messages-->
-    <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable.</string>
+    <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable</string>
     <string name="MEDIA_CHECKING">Media scanning under progress,please try again later.</string>
     <string name="MEDIA_NOFS">Cannot extract,sdcard unsupported file system ! </string>
-    <string name="MEDIA_SHARED">Cannot Extract, sdcard is shared.</string>
-    <string name="MEDIA_REMOVED">Please insert sdcard and extract.</string>
-    <string name="MEDIA_BAD_REMOVAL">Cannot extract,sdcard is not supported.</string>
-    <string name="MEDIA_UNKNOWN">Cannot extract,sdcard is not supported.</string>
-    <string name="MEDIA_UNMOUNTABLE">Cannot extract,sdcard is not supported.</string>
-    <string name="MEDIA_UNMOUNTED">Cannot extract,sdcard is not supported.</string>
+    <string name="MEDIA_SHARED">Cannot Extract, sdcard is shared</string>
+    <string name="MEDIA_REMOVED">Please insert sdcard and extract</string>
+    <string name="MEDIA_BAD_REMOVAL">Cannot extract,sdcard is not supported</string>
+    <string name="MEDIA_UNKNOWN">Cannot extract,sdcard is not supported</string>
+    <string name="MEDIA_UNMOUNTABLE">Cannot extract,sdcard is not supported</string>
+    <string name="MEDIA_UNMOUNTED">Cannot extract,sdcard is not supported</string>
 
     <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Error</string>
