@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Estrattore</string>
+
+    <!-- preference summary -->
+    <string name="summary_file_saved_path"></string>
+
+    <!--Menu Strings and messages-->
+    <string name="action_search">Cerca</string>
+    <string name="acton_rate_us">Vota</string>
+    <string name="action_file">file</string>
+    <string name="action_share">condividi</string>
+    <string name="str_show_user_apps">Visualizza app utente</string>
+    <string name="str_show_system_apps">Visualizza app sistema</string>
+    <string name="show_all_apps_title">Visualizza tutte le applicazioni</string>
+    <string name="settings">Impostazioni</string>
+
+	<!-- menu icon text -->
+    <string name="checkbox">checkbox</string>
+    <string name="options">options</string>
+    <string name="icon">icon</string>
+    <string name="file">file</string>
+    <string name="check">Check</string>
+    <string name="extract">Extract</string>
+    <string name="share">Share</string>
+
+    <!--Settings Screen Strings-->
+    <string name="title_file_saved_path">Percorso salvataggio</string>
+    <string name="title_rate_us">Vota per supportarci</string>
+    <string name="title_version">Versione</string>
+    <string name="summmay_on">Visualizza tutte le applicazioni in un elenco</string>
+    <string name="summmay_off">Le applicazioni utente e di sistema sono categorizzate</string>
+
+    <!-- messages-->
+    <string name="extract_success">estratto di percorso :</string>
+    <string name="share_msg">Come vuoi condividere?</string>
+    <string name="extracting_msg">Estrazione …</string>
+    <string name="loading_msg">Caricamento applicazioni…</string>
+    <string name="options_title_share">Condividi</string>
+    <string name="options_title_info">Info</string>
+    <string name="empty_folder">Cartella vuota</string>
+    <string name="create_directory">Crea</string>
+    <string name="set_dir_path">Imposta</string>
+
+    <string name="str_directory_exists">Cartella già esistente.</string>
+    <string name="str_invalid_dir_create">La cartella non può essere creata qui.</string>
+    <string name="str_invalid_dir_set">Impossibile impostare questa cartella.</string>
+
+     <!--error messages-->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Impossibile estrarre! Scheda SD non scrivibile.</string>
+    <string name="MEDIA_CHECKING">Scansione unità in corso. Riprova più tardi.</string>
+    <string name="MEDIA_NOFS">Impossibile estrarre. File system SD non supportato!</string>
+    <string name="MEDIA_SHARED">Impossibile estrarre. SD condivisa.</string>
+    <string name="MEDIA_REMOVED">Inserisci la scheda SD e estrai.</string>
+    <string name="MEDIA_BAD_REMOVAL">Impossibile estrarre. Scheda SD non supportata.</string>
+    <string name="MEDIA_UNKNOWN">Impossibile estrarre. Scheda SD non supportata.</string>
+    <string name="MEDIA_UNMOUNTABLE">Impossibile estrarre. Scheda SD non supportata.</string>
+    <string name="MEDIA_UNMOUNTED">Impossibile estrarre. Scheda SD non supportata.</string>
+
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="error_msg">Errore</string>
+
+    <string name="str_button_ok">ok</string>
+    <string name="str_button_cancel">Annulla</string>
+
+    <string name="dialog_title_directory_name">nome directory</string>
+    <string name="summary_no_sdcard" > &lt; no sdcard -&gt; </string>
+
+</resources>
