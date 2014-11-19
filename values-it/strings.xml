@@ -4,9 +4,7 @@
     <!-- global messages -->
     <string name="app_name">Estrattore Apk</string>
 
-    <!-- preference summary -->
-    <string name="summary_file_saved_path"></string>
-
+  
     <!--Menu Strings and messages-->
     <string name="action_search">Cerca</string>
     <string name="acton_rate_us">Vota</string>

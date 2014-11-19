@@ -3,10 +3,8 @@
 
     <!-- global messages -->
     <string name="app_name">Apk Extractor</string>
-    
-    <!-- preference summary -->
-    <string name="summary_file_saved_path"></string>
 
+    
     <!-- Menu Strings and messages -->
     <string name="action_search">Search</string>
     <string name="acton_rate_us">Rate us</string>
