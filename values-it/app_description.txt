@@ -1,0 +1,10 @@
+Questa applicazione estrae APK che è installato sul dispositivo Android e copiare sulla scheda SD.
+* Veloce e facile da usare.
+* Estrae tutto più tutte le applicazioni, include applicazioni di sistema.
+* Nessun accesso ROOT richiesto.
+* Per impostazione predefinita Apk di saranno salvati in / sdcard / ExtractedApks /.
+* Opzione di ricerca fornito da cercare applicazioni.
+* Compatibile con l'ultima versione di Android 5.0.
+* Formato apk salvato AppName_AppPackage_AppVersionName_AppVersionCode.apk
+* Barra delle azioni, il sostegno Android 2.2 + dispositivi.
+* Può estrarre più / tutti apk di tenendo click prolungato su un punto qualsiasi.
