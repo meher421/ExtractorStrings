@@ -29,6 +29,7 @@
     <string name="title_version">Version</string>
     <string name="summmay_on">Displays all applications in a single list</string>
     <string name="summmay_off">User installed and System installed applications are categorized </string>
+	<string name="summary_file_saved_path">&lt; no sdcard &gt;</string><!-- < no sdcard > -->
 
     <!--  messages -->
     <string name="extract_success">Extracted to path :</string>

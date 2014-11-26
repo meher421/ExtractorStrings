@@ -29,6 +29,8 @@
     <string name="title_version">Versione</string>
     <string name="summmay_on">Visualizza tutte le applicazioni in un elenco</string>
     <string name="summmay_off">Le applicazioni utente e di sistema sono categorizzate</string>
+	<string name="summary_file_saved_path">&lt; no sdcard &gt;</string><!-- < no sdcard > -->
+
 
     <!-- messages-->
     <string name="extract_success">App salvata nel file :</string>
