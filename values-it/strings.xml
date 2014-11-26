@@ -4,7 +4,6 @@
     <!-- global messages -->
     <string name="app_name">Estrattore Apk</string>
 
-  
     <!--Menu Strings and messages-->
     <string name="action_search">Cerca</string>
     <string name="acton_rate_us">Vota</string>
@@ -26,7 +25,7 @@
 
     <!--Settings Screen Strings-->
     <string name="title_file_saved_path">Percorso salvataggio</string>
-    <string name="title_rate_us">Vota per supportarci</string>
+    <string name="title_rate_us">Valuta</string>
     <string name="title_version">Versione</string>
     <string name="summmay_on">Visualizza tutte le applicazioni in un elenco</string>
     <string name="summmay_off">Le applicazioni utente e di sistema sono categorizzate</string>
@@ -66,4 +65,10 @@
     <string name="dialog_title_directory_name">nome directory</string>
     <string name="summary_no_sdcard" > &lt; no sdcard -&gt; </string>
 
+    <!-- new strings -->
+    <string name="tile_developer">SVILUPPATO E DISEGNATO DA </string>
+    <string name="title_translators">TRADUZIONI DI</string>
+    <string name="summary_rate_us">Aiutaci con la tua valutazione</string>
+    <string name="contact_us">Contattaci</string>
+    
 </resources>

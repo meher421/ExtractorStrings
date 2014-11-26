@@ -4,7 +4,6 @@
     <!-- global messages -->
     <string name="app_name">Apk Extractor</string>
 
-    
     <!-- Menu Strings and messages -->
     <string name="action_search">Search</string>
     <string name="acton_rate_us">Rate us</string>
@@ -26,7 +25,7 @@
 
     <!--Settings screen Strings-->
     <string name="title_file_saved_path">Saved path</string>
-    <string name="title_rate_us">Rate us for support</string>
+    <string name="title_rate_us">Rate</string>
     <string name="title_version">Version</string>
     <string name="summmay_on">Displays all applications in a single list</string>
     <string name="summmay_off">User installed and System installed applications are categorized </string>
@@ -66,5 +65,10 @@
     <string name="dialog_title_directory_name">Directory Name</string>
     <string name="summary_no_sdcard" > &lt; no sd card -&gt; </string>
 
+    <!-- new strings -->
+    <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
+    <string name="title_translators">TRANSLATIONS BY</string>
+    <string name="summary_rate_us">Show us your support</string>
+    <string name="contact_us">Contact us</string>
 
 </resources>
