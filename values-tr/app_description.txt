@@ -1,0 +1,11 @@
+APK Çikarici android cihazinizda yüklü olan uygulamalarin APK'sini çikarip, SD karta kopyalar.
+
+* Hizli ve kolay kullanim.
+* Sistem uygulamalari da dahil neredeyse bütün uygulamalarin apk'larini çikarir.
+* Root erisimine ihtiyaç duymaz.
+* Varsayilan kopyalama yeri: /sdcard/ExtractedApks/.
+* Uygulamalari arama özelligi mevcuttur.
+* Android'in son sürümü 5.0 ile uyumludur.
+* Kaydedilen apk formati: UygulamaIsmi_UygulamaPaketIsmi_UygulamaVersiyonIsmi_UygulamaVersiyonKodu.apk
+* Android 2.2+ cihazlarda action bar destegi
+* Bir çok uygulamayi ya da bütün uygulamalari uygulama üzerine uzun basarak çikarabilirsiniz.

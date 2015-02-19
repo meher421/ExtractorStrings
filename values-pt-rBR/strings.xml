@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Procurar</string>
+    <string name="acton_rate_us">Avalie nos</string>
+    <string name="action_file">Arquivo</string>
+    <string name="action_share">compartilhar</string>
+    <string name="str_show_system_apps">Mostrar Aplic do Sistema</string>
+    <string name="str_show_user_apps">Mostrar Aplic do Usuário</string>
+    <string name="show_all_apps_title">Mostrar todos</string>
+    <string name="settings">Configurações</string>
+
+	<!-- menu icon text -->
+    <string name="checkbox">selecionado</string>
+    <string name="options">opções</string>
+    <string name="icon">ícone</string>
+    <string name="file">arquivo</string>
+    <string name="check">selecionado</string>
+    <string name="extract">Extrair</string>
+    <string name="share">Compartilhar</string>
+
+    <!--Settings screen Strings-->
+    <string name="title_file_saved_path">Salvar em</string>
+    <string name="title_rate_us">Avalie</string>
+    <string name="title_version">Versão</string>
+    <string name="summmay_on">Mostrar todos aplicativos em lista única</string>
+    <string name="summmay_off">Filtrar aplicativos por categoria </string>
+	<string name="summary_file_saved_path">&lt; sem cartão de memória &gt;</string><!-- < sem cartão de memória > -->
+
+    <!--  messages -->
+    <string name="extract_success">Extraído para a pasta :</string>
+    <string name="share_msg">Como deseja compartilhar?</string>
+    <string name="extracting_msg">Extraindo &#8230;</string>
+    <string name="loading_msg">Analisando aplicativos &#8230;</string>
+    <string name="options_title_share">compartilhar</string>
+    <string name="options_title_info">Informações</string>
+    <string name="empty_folder">Pasta Vazia</string>
+    <string name="create_directory">Criar</string>
+    <string name="set_dir_path">Definir</string>
+
+    <string name="str_directory_exists">Pasta já existe</string>
+    <string name="str_invalid_dir_create">Diretório inválido</string>
+    <string name="str_invalid_dir_set">Não foi possível definir a pasta.</string>
+
+    <!--error messages--> 
+    <string name="MEDIA_MOUNTED_READ_ONLY">Impossível extrair ! Cartão SD protegido contra gravação</string>
+    <string name="MEDIA_CHECKING">Escaneamento do Cartão SD em progresso, tente em alguns minutos..</string>
+    <string name="MEDIA_NOFS">Não é possível extrair, sistema de arquivos do Cartão SD inválido ! </string>
+    <string name="MEDIA_SHARED">Não é possível extrair, Cartão SD em indisponível</string>
+    <string name="MEDIA_REMOVED">Insira um Cartão SD para extrair</string>
+    <string name="MEDIA_BAD_REMOVAL">Não é possível extrair, Cartão SD não suportado</string>
+    <string name="MEDIA_UNKNOWN">Não é possível extrair, Cartão SD não suportado</string>
+    <string name="MEDIA_UNMOUNTABLE">Não é possível extrair, Cartão SD não suportado</string>
+    <string name="MEDIA_UNMOUNTED">Não é possível extrair, Cartão SD não suportado</string>
+
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="error_msg">Erro</string>
+
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Cancelar</string>
+
+    <string name="dialog_title_directory_name">Nome do caminho</string>
+    <string name="summary_no_sdcard" > &lt; sem Cartão SD -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
+    <string name="title_translators">TRANSLATIONS BY</string>
+    <string name="summary_rate_us">Mostre-nos seu suporte</string>
+    <string name="contact_us">Contate-nos</string>
+
+</resources>

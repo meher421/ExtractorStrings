@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Çıkarıcı</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Ara</string>
+    <string name="acton_rate_us">Bizi oylayın</string>
+    <string name="action_file">dosya</string>
+    <string name="action_share">paylaş</string>
+    <string name="str_show_system_apps">Sistem Uygulamalarını Göster</string>
+    <string name="str_show_user_apps">Kullanıcı Uygulamalarını Göster</string>
+    <string name="show_all_apps_title">Tüm Uygulamaları Göster</string>
+    <string name="settings">Ayarlar</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">işaret kutusu</string>
+    <string name="options">seçenekler</string>
+    <string name="icon">ikon</string>
+    <string name="file">dosya</string>
+    <string name="check">İşaretle</string>
+    <string name="extract">Çıkar</string>
+    <string name="share">Paylaş</string>
+
+    <!--Settings screen Strings-->
+    <string name="title_file_saved_path">Kayıt yeri</string>
+    <string name="title_rate_us">Oy</string>
+    <string name="title_version">Versiyon</string>
+    <string name="summmay_on">Tüm uygulamaları tek bir listede gösterir</string>
+    <string name="summmay_off">Kullanıcı yüklü ve Sistem yüklü uygulamalar sınıflandırılır</string>
+    <string name="summary_file_saved_path">&lt; sdcard yok &gt;</string><!-- < no sdcard > -->
+
+    <!--  messages -->
+    <string name="extract_success">Dosya yoluna çıkarıldı :</string>
+    <string name="share_msg">Nasıl paylaşmak istersiniz?</string>
+    <string name="extracting_msg">Çıkarılıyor &#8230;</string>
+    <string name="loading_msg">Uygulamaları analiz ediyor &#8230;</string>
+    <string name="options_title_share">paylaş</string>
+    <string name="options_title_info">bilgi</string>
+    <string name="empty_folder">Boş Dosya</string>
+    <string name="create_directory">Yarat</string>
+    <string name="set_dir_path">Kaydet</string>
+
+    <string name="str_directory_exists">Dizin zaten var</string>
+    <string name="str_invalid_dir_create">Dizin burada oluşturulamadı</string>
+    <string name="str_invalid_dir_set">Bu dizine kaydedilemedi</string>
+
+    <!--error messages-->
+    <string name="MEDIA_MOUNTED_READ_ONLY">/Çıkarılamadı ! sdcard'a yazma izni yok</string>
+    <string name="MEDIA_CHECKING">Ortam taraması devam ediyor,lütfen tekrar deneyiniz.</string>
+    <string name="MEDIA_NOFS">Çıkarılamadı,sdcard desteklenmeyen dosya sistemi ! </string>
+    <string name="MEDIA_SHARED">Çıkarılamadı, sdcard paylaşımlı</string>
+    <string name="MEDIA_REMOVED">Lütfen sdcard yerleştirin ve çıkarın</string>
+    <string name="MEDIA_BAD_REMOVAL">Çıkarılamadı,sdcard desteklenmiyor</string>
+    <string name="MEDIA_UNKNOWN">Çıkarılamadı,sdcard desteklenmiyor</string>
+    <string name="MEDIA_UNMOUNTABLE">Çıkarılamadı,sdcard desteklenmiyor</string>
+    <string name="MEDIA_UNMOUNTED">Çıkarılamadı,sdcard desteklenmiyor</string>
+
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="error_msg">Hata</string>
+
+    <string name="str_button_ok">Tamam</string>
+    <string name="str_button_cancel">İptal</string>
+
+    <string name="dialog_title_directory_name">Dizin İsmi</string>
+    <string name="summary_no_sdcard" > &lt; sdcard yok -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">TASARIMCI &amp; GELİŞTİRİCİ </string>
+    <string name="title_translators">ÇEVİRİ YAPANLAR</string>
+    <string name="summary_rate_us">Desteğinizi gösterin</string>
+    <string name="contact_us">İletişim kurun</string>
+
+</resources>
