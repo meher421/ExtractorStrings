@@ -30,6 +30,7 @@
     <string name="summmay_on">Tüm uygulamaları tek bir listede gösterir</string>
     <string name="summmay_off">Kullanıcı yüklü ve Sistem yüklü uygulamalar sınıflandırılır</string>
     <string name="summary_file_saved_path">&lt; sdcard yok &gt;</string><!-- < no sdcard > -->
+    <string name="title_about">Hakkımızda</string>
 
     <!--  messages -->
     <string name="extract_success">Dosya yoluna çıkarıldı :</string>
@@ -47,7 +48,7 @@
     <string name="str_invalid_dir_set">Bu dizine kaydedilemedi</string>
 
     <!--error messages-->
-    <string name="MEDIA_MOUNTED_READ_ONLY">/Çıkarılamadı ! sdcard'a yazma izni yok</string>
+    <string name="MEDIA_MOUNTED_READ_ONLY">Çıkarılamadı ! sdcard\'a yazma izni yok</string>
     <string name="MEDIA_CHECKING">Ortam taraması devam ediyor,lütfen tekrar deneyiniz.</string>
     <string name="MEDIA_NOFS">Çıkarılamadı,sdcard desteklenmeyen dosya sistemi ! </string>
     <string name="MEDIA_SHARED">Çıkarılamadı, sdcard paylaşımlı</string>

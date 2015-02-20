@@ -30,7 +30,8 @@
     <string name="summmay_on">Mostrar todos aplicativos em lista única</string>
     <string name="summmay_off">Filtrar aplicativos por categoria </string>
 	<string name="summary_file_saved_path">&lt; sem cartão de memória &gt;</string><!-- < sem cartão de memória > -->
-
+	<string name="title_about">Sobre nós</string>
+	
     <!--  messages -->
     <string name="extract_success">Extraído para a pasta :</string>
     <string name="share_msg">Como deseja compartilhar?</string>
