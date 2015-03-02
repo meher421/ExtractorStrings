@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Suchen</string>
+    <string name="acton_rate_us">Bewerte uns</string>
+    <string name="action_file">Datei</string>
+    <string name="action_share">Teilen</string>
+    <string name="str_show_system_apps">System Apps anzeigen</string>
+    <string name="str_show_user_apps">User Apps anzeigen</string>
+    <string name="show_all_apps_title">Alle Apps anzeigen</string>
+    <string name="settings">Einstellungen</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">Checkbox</string>
+    <string name="options">Optionen</string>
+    <string name="icon">Icon</string>
+    <string name="file">Datei</string>
+    <string name="check">Check</string>
+    <string name="extract">Extrahieren</string>
+    <string name="share">Teilen</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Saved path</string>
+    <string name="title_rate_us">Bewerte uns</string>
+    <string name="title_version">Version</string>
+    <string name="summmay_on">Alle Apps in einer Liste anzeigen</string>
+    <string name="summmay_off">Installierte Benutzer- und Systemanwendungen kategorisieren</string>
+    <string name="summary_file_saved_path">&lt; keine SD-Karte &gt;</string><!-- < no sdcard > -->
+    <string name="title_about">Über uns</string>
+
+    <!-- messages -->
+    <string name="extract_success">Extrahiert in Verzeichnis:</string>
+    <string name="share_msg">Wie möchtest du das teilen?</string>
+    <string name="extracting_msg">Extrahiere &#8230;</string>
+    <string name="loading_msg">Analysiere Anwendungen &#8230;</string>
+    <string name="options_title_share">teilen</string>
+    <string name="options_title_info">info</string>
+    <string name="empty_folder">Leerer Ordner</string>
+    <string name="create_directory">Erstellen</string>
+    <string name="set_dir_path">Setzen</string>
+    <string name="str_directory_exists">Verzeichnis existiert bereits.</string>
+    <string name="str_invalid_dir_create">Verzeichnis kann hier nicht erstellt werden.</string>
+    <string name="str_invalid_dir_set">Verzeichnis kann nicht gewählt werden.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Extrahieren fehlgeschlagen. SD-Karte ist nicht beschreibbar.</string>
+    <string name="MEDIA_CHECKING">Media scanning under progress,please try again later.</string>
+    <string name="MEDIA_NOFS">Extrahieren fehlgeschlagen. Dateisystem wird nicht unterstützt!</string>
+    <string name="MEDIA_SHARED">Extrahieren fehlgeschlagen. SD-Karte ist anderweitig in verwendung.</string>
+    <string name="MEDIA_REMOVED">Bitte lege eine SD-Karte ein und starte "Extrahieren"</string>
+    <string name="MEDIA_BAD_REMOVAL">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
+    <string name="MEDIA_UNKNOWN">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
+    <string name="MEDIA_UNKNOWNTABLE">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
+    <string name="MEDIA_UNMOUNTED">Extrahieren fehlgeschlagen. SD-Karte ist nicht gemounted</string>
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="error_msg">Fehler</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Abbrechen</string>
+    <string name="dialog_title_directory_name">Verzeichnis-Name</string>
+    <string name="summary_no_sdcard"> &lt; keine SD-Karte -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">DESIGNT &amp; ENTWICKELT VON </string>
+    <string name="title_translators">ÜBERSETZUNGEN VON</string>
+    <string name="summary_rate_us">Unterstütze uns</string>
+    <string name="contact_us">Kontaktieren</string>
+
+</resources>
