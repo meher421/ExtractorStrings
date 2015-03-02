@@ -9,8 +9,8 @@
     <string name="acton_rate_us">Bewerte uns</string>
     <string name="action_file">Datei</string>
     <string name="action_share">Teilen</string>
-    <string name="str_show_system_apps">System Apps anzeigen</string>
-    <string name="str_show_user_apps">User Apps anzeigen</string>
+    <string name="str_show_system_apps">System-Apps anzeigen</string>
+    <string name="str_show_user_apps">User-Apps anzeigen</string>
     <string name="show_all_apps_title">Alle Apps anzeigen</string>
     <string name="settings">Einstellungen</string>
 
@@ -24,7 +24,7 @@
     <string name="share">Teilen</string>
 
     <!-- Settings screen Strings -->
-    <string name="title_file_saved_path">Saved path</string>
+    <string name="title_file_saved_path">Speicherort</string>
     <string name="title_rate_us">Bewerte uns</string>
     <string name="title_version">Version</string>
     <string name="summmay_on">Alle Apps in einer Liste anzeigen</string>
