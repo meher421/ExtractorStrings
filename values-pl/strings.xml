@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Szukaj</string>
+    <string name="acton_rate_us">Oceń nas</string>
+    <string name="action_file">plik</string>
+    <string name="action_share">udostępnij</string>
+    <string name="str_show_system_apps">Pokaż aplikacje systemowe</string>
+    <string name="str_show_user_apps">Pokaż aplikacje użytkownika</string>
+    <string name="show_all_apps_title">Pokaż wszystkie aplikacje</string>
+    <string name="settings">Ustawienia</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">checkbox</string>
+    <string name="options">opcje</string>
+    <string name="icon">ikona</string>
+    <string name="file">plik</string>
+    <string name="check">Sprawdź</string>
+    <string name="extract">Eksportuj</string>
+    <string name="share">udostępnij</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Folder zapisu</string>
+    <string name="title_rate_us">Oceń aplikacje</string>
+    <string name="title_version">Wersja</string>
+    <string name="summmay_on">Pokazuje wszystkie aplikacje w jednej liście</string>
+    <string name="summmay_off">Aplikacje zainstalowane przez użytkownika oraz systemowe będą podzielone</string>
+    <string name="summary_file_saved_path">&lt; brak karty SD &gt;</string><!-- < no sdcard > -->
+	<string name="title_about">O nas</string>
+
+    <!-- messages -->
+    <string name="extract_success">Wyeksportowane do:</string>
+    <string name="share_msg">Jak chcesz to udostępnić?</string>
+    <string name="extracting_msg">Eksportowanie &#8230;</string>
+    <string name="loading_msg">Analizowanie aplikacji &#8230;</string>
+    <string name="options_title_share">podziel się</string>
+    <string name="options_title_info">info</string>
+    <string name="empty_folder">Pusty folder</string>
+    <string name="create_directory">Utwórz</string>
+    <string name="set_dir_path">Ustaw</string>
+    <string name="str_directory_exists">Folder aktualnie istnieje</string>
+    <string name="str_invalid_dir_create">Folder nie może zostać tutaj utworzony</string>
+    <string name="str_invalid_dir_set">Nie można ustawić tego folderu</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Błąs eksportowania! Karta SD jest niedostępna do zapisu</string>
+    <string name="MEDIA_CHECKING">Skanowanie mediów trwa, spróbuj za chwilę</string>
+    <string name="MEDIA_NOFS">Błąd eksportowania! Nieprawidłowy system plików karty SD</string>
+    <string name="MEDIA_SHARED">Nie można eksportować, karta SD jest używana</string>
+    <string name="MEDIA_REMOVED">Proszę włóż kartę SD i eksportuj</string>
+    <string name="MEDIA_BAD_REMOVAL">Błąd eksportowania! Karta SD nie jest wspierana</string>
+    <string name="MEDIA_UNKNOWN">Błąd eksportowania! Karta SD nie jest wspierana</string>
+    <string name="MEDIA_UNMOUNTABLE">Błąd eksportowania! Karta SD nie jest wspierana</string>
+    <string name="MEDIA_UNMOUNTED">Błąd eksportowania! Karta SD nie jest wspierana</string>
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="error_msg">Błąd</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Anuluj</string>
+    <string name="dialog_title_directory_name">Nazwa folderu</string>
+    <string name="summary_no_sdcard"> &lt; Brak karty SD -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">PROJEKTOWANE &amp; ROZWIJANE PRZEZ </string>
+    <string name="title_translators">Tłumaczenia</string>
+    <string name="summary_rate_us">Pokaż nam swoje wsparcie!</string>
+    <string name="contact_us">Skontaktuj się z nami</string>
+
+</resources>
