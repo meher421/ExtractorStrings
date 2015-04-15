@@ -1,0 +1,1 @@
+Extrae las aplicaciones instaladas en tu teléfono y las guarda en tu Tarjeta SD

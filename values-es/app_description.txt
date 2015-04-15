@@ -1,0 +1,10 @@
+APK Extractor extrae los archivos APK instalados en tu teléfono y los copia en tu Tarjeta SD
+* Rápida y fácil de usar.
+* Extrae todas las aplicaciones instaladas, incluyendo las aplicaciones del sistema.
+* No necesitas acceso ROOT en tu teléfono.
+* Por default, los archivos APK se almacenan en /sdcard/ExtractedApks/.
+* Función de búsqueda de aplicaciones
+* Compatible con la última versión de Android 5.0
+* El nombre del APK extraido esta formado por NombreDeApp_NombreDePaquete_NombreDeVersion_NumeroDeVersion.apk
+* Barra de acciones (Action bar) soportada desde la version 2.2+ de Android
+* Extrae multiples/todas APK manteniendo presionado cada elemento en la lista de aplicaciones
