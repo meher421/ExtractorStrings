@@ -68,5 +68,7 @@
     <string name="title_translators">ÜBERSETZUNGEN VON</string>
     <string name="summary_rate_us">Unterstütze uns</string>
     <string name="contact_us">Kontaktieren</string>
+    <string name="file_name_format">Dateinamenformat</string>
+    <string name="name_format_type_summary">Namenskonvention für extrahierte App</string>
 
 </resources>
