@@ -1,0 +1,9 @@
+APK Extractor extrahiert eine installierte Anwendung als APK und kopiert sie auf die SD-Karte.
+* Schnell und einfach zu benutzen.
+* Extrahiert fast alle Apps. Auch Systemanwendungen.
+* ROOT wird nicht benötigt
+* Standardmäßig werden die APKs in /sdcard/ExtractedApks/ gespeichert
+* Suchfunktion für installierte Anwendungen
+* Kompatibel mit Android 5.0
+* APK Dateiname AppName_AppPaket_AppVersionName_AppVersionCode.apk
+* Extrahiert mehrere/alle APKs durch gedrückt halten des Listeneintrags

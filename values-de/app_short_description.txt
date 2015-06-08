@@ -1,0 +1,1 @@
+APK Extractor extrahiert eine installierte Anwendung als APK und kopiert sie auf die SD-Karte.
