@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
 
     <!-- global messages -->
@@ -16,12 +16,12 @@
 
     <!-- menu icon text -->
     <string name="checkbox">checkbox</string>
-    <string name="options">options</string>
-    <string name="icon">icon</string>
+    <string name="options">opzioni</string>
+    <string name="icon">icona</string>
     <string name="file">file</string>
-    <string name="check">Check</string>
-    <string name="extract">Extract</string>
-    <string name="share">Share</string>
+    <string name="check">Controllare</string>
+    <string name="extract">estratto</string>
+    <string name="share">quota</string>
 
     <!-- Settings Screen Strings -->
     <string name="title_file_saved_path">Percorso salvataggio</string>
@@ -29,15 +29,14 @@
     <string name="title_version">Versione</string>
     <string name="summmay_on">Visualizza tutte le applicazioni in un elenco</string>
     <string name="summmay_off">Le applicazioni utente e di sistema sono categorizzate</string>
-    <string name="summary_file_saved_path">&lt; no sdcard &gt;</string><!-- < no sdcard > -->
+    <string name="summary_file_saved_path">&lt; no sdcard &gt;</string> <!-- < no sdcard > -->
     <string name="title_about">chi siamo</string>
-
 
     <!-- messages -->
     <string name="extract_success">App salvata nel file :</string>
     <string name="share_msg">Come vuoi condividere?</string>
     <string name="extracting_msg">Estrazione &#8230;</string>
-    <string name="loading_msg">Analisi applicazioni &#8230;</string>
+    <string name="loading_msg">applicazioni di carico &#8230;</string>
     <string name="options_title_share">Condividi</string>
     <string name="options_title_info">Info</string>
     <string name="empty_folder">Cartella vuota</string>
@@ -57,11 +56,10 @@
     <string name="MEDIA_UNKNOWN">Impossibile estrarre. Scheda SD non supportata</string>
     <string name="MEDIA_UNMOUNTABLE">Impossibile estrarre. Scheda SD non supportata</string>
     <string name="MEDIA_UNMOUNTED">Impossibile estrarre. Scheda SD non supportata</string>
-    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Errore</string>
-    <string name="str_button_ok">ok</string>
+    <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Annulla</string>
-    <string name="dialog_title_directory_name">nome directory</string>
+    <string name="dialog_title_directory_name">Nome directory</string>
     <string name="summary_no_sdcard"> &lt; no sdcard -&gt; </string>
 
     <!-- new strings -->
@@ -69,5 +67,15 @@
     <string name="title_translators">TRADUZIONI DI</string>
     <string name="summary_rate_us">Aiutaci con la tua valutazione</string>
     <string name="contact_us">Contattaci</string>
+    <string name="no_matches_found">Nessuna corrispondenza trovata</string>
+
+    <string-array name="listarray">
+        <item> Nome + versione + codice versione</item>
+        <item> Nome + versione</item>
+        <item> Nome</item>
+    </string-array>
+
+    <string name="file_name_format">Formato nome file salvataggio APK</string>
+    <string name="name_format_type_summary">Convenzione nome applicazione estratta</string>
 
 </resources>

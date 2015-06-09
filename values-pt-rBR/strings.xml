@@ -14,7 +14,7 @@
     <string name="show_all_apps_title">Mostrar todos</string>
     <string name="settings">Configurações</string>
 
-	<!-- menu icon text -->
+    <!-- menu icon text -->
     <string name="checkbox">selecionado</string>
     <string name="options">opções</string>
     <string name="icon">ícone</string>
@@ -23,31 +23,31 @@
     <string name="extract">Extrair</string>
     <string name="share">Compartilhar</string>
 
-    <!--Settings screen Strings-->
+    <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Salvar em</string>
     <string name="title_rate_us">Avalie</string>
     <string name="title_version">Versão</string>
     <string name="summmay_on">Mostrar todos aplicativos em lista única</string>
     <string name="summmay_off">Filtrar aplicativos por categoria </string>
-	<string name="summary_file_saved_path">&lt; sem cartão de memória &gt;</string><!-- < sem cartão de memória > -->
-	<string name="title_about">Sobre nós</string>
-	
-    <!--  messages -->
+    <string name="summary_file_saved_path">&lt; sem cartão de memória &gt;</string>
+    <!-- < sem cartão de memória > -->
+
+
+    <!-- messages -->
     <string name="extract_success">Extraído para a pasta :</string>
     <string name="share_msg">Como deseja compartilhar?</string>
     <string name="extracting_msg">Extraindo &#8230;</string>
-    <string name="loading_msg">Analisando aplicativos &#8230;</string>
+    <string name="loading_msg">Aplicações de carga &#8230;</string>
     <string name="options_title_share">compartilhar</string>
     <string name="options_title_info">Informações</string>
     <string name="empty_folder">Pasta Vazia</string>
     <string name="create_directory">Criar</string>
     <string name="set_dir_path">Definir</string>
-
     <string name="str_directory_exists">Pasta já existe</string>
     <string name="str_invalid_dir_create">Diretório inválido</string>
     <string name="str_invalid_dir_set">Não foi possível definir a pasta.</string>
 
-    <!--error messages--> 
+    <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Impossível extrair ! Cartão SD protegido contra gravação</string>
     <string name="MEDIA_CHECKING">Escaneamento do Cartão SD em progresso, tente em alguns minutos..</string>
     <string name="MEDIA_NOFS">Não é possível extrair, sistema de arquivos do Cartão SD inválido ! </string>
@@ -57,20 +57,26 @@
     <string name="MEDIA_UNKNOWN">Não é possível extrair, Cartão SD não suportado</string>
     <string name="MEDIA_UNMOUNTABLE">Não é possível extrair, Cartão SD não suportado</string>
     <string name="MEDIA_UNMOUNTED">Não é possível extrair, Cartão SD não suportado</string>
-
-    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Erro</string>
-
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Cancelar</string>
-
     <string name="dialog_title_directory_name">Nome do caminho</string>
-    <string name="summary_no_sdcard" > &lt; sem Cartão SD -&gt; </string>
+    <string name="summary_no_sdcard"> &lt; sem Cartão SD -&gt; </string>
 
     <!-- new strings -->
     <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
     <string name="title_translators">TRANSLATIONS BY</string>
     <string name="summary_rate_us">Mostre-nos seu suporte</string>
     <string name="contact_us">Contate-nos</string>
+    <string name="no_matches_found">Não foram encontrados jogos</string>
+
+    <string-array name="listarray">
+        <item>Nome+ Versão + Versão do Código</item>
+        <item> Nome + Versão</item>
+        <item> Nome</item>
+</string-array>
+
+     <string name="file_name_format">Nome do formato do arquivo APK a ser salvo</string>
+    <string name="name_format_type_summary">Tipo de nome do aplicativo extraído</string>
 
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
 
     <!-- global messages -->
@@ -15,8 +15,8 @@
     <string name="settings">Ustawienia</string>
 
     <!-- menu icon text -->
-    <string name="checkbox">checkbox</string>
-    <string name="options">opcje</string>
+    <string name="checkbox">pole wyboru</string>
+    <string name="options">Opcje</string>
     <string name="icon">ikona</string>
     <string name="file">plik</string>
     <string name="check">Sprawdź</string>
@@ -29,8 +29,8 @@
     <string name="title_version">Wersja</string>
     <string name="summmay_on">Pokazuje wszystkie aplikacje w jednej liście</string>
     <string name="summmay_off">Aplikacje zainstalowane przez użytkownika oraz systemowe będą podzielone</string>
-    <string name="summary_file_saved_path">&lt; brak karty SD &gt;</string><!-- < no sdcard > -->
-	<string name="title_about">O nas</string>
+    <string name="summary_file_saved_path">&lt; brak karty SD &gt;</string> <!-- < no sdcard > -->
+    <string name="title_about">O nas</string>
 
     <!-- messages -->
     <string name="extract_success">Wyeksportowane do:</string>
@@ -56,7 +56,6 @@
     <string name="MEDIA_UNKNOWN">Błąd eksportowania! Karta SD nie jest wspierana</string>
     <string name="MEDIA_UNMOUNTABLE">Błąd eksportowania! Karta SD nie jest wspierana</string>
     <string name="MEDIA_UNMOUNTED">Błąd eksportowania! Karta SD nie jest wspierana</string>
-    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Błąd</string>
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Anuluj</string>
@@ -68,5 +67,15 @@
     <string name="title_translators">Tłumaczenia</string>
     <string name="summary_rate_us">Pokaż nam swoje wsparcie!</string>
     <string name="contact_us">Skontaktuj się z nami</string>
+    <string name="no_matches_found">Nie znaleziono żadnego meczu</string>
+
+    <string-array name="listarray">
+        <item>Nazwa + Wersja+ Wersja kodu</item>
+        <item> Nazwa + Wersja</item>
+        <item> Nazwa</item>
+    </string-array>
+
+    <string name="file_name_format">Format nazwy zapisanego pliku APK</string>
+    <string name="name_format_type_summary">Konwencja nazywania ekstraktowanych APK</string>
 
 </resources>

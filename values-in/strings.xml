@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Cari</string>
+    <string name="acton_rate_us">Nilai Kami</string>
+    <string name="action_file">file</string>
+    <string name="action_share">bagikan</string>
+    <string name="str_show_system_apps">Tampilkan Aplikasi Sistem</string>
+    <string name="str_show_user_apps">Tampilkan Aplikasi Pengguna</string>
+    <string name="show_all_apps_title">Tampilkan semua aplikasi</string>
+    <string name="settings">Pengaturan</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">checkbox</string>
+    <string name="options">opsi</string>
+    <string name="icon">ikon</string>
+    <string name="file">file</string>
+    <string name="check">Check</string>
+    <string name="extract">Ekstrak</string>
+    <string name="share">Bagikan</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Lokasi penyimpanan</string>
+    <string name="title_rate_us">Nilai</string>
+    <string name="title_version">Versi</string>
+    <string name="summmay_on">Tampilkan semua aplikasi dalam daftar tunggal</string>
+    <string name="summmay_off">Aplikasi pengguna dan Aplikasi sistem yang terpasang telah dikategorikan </string>
+    <string name="summary_file_saved_path">&lt; tidak ada kartu memori &gt;</string><!-- < no sdcard > -->
+	<string name="title_about">Tentang kami</string>
+
+    <!-- messages -->
+    <string name="extract_success">Telah diekstrak ke:</string>
+    <string name="share_msg">Bagaimana anda ingin membagikan?</string>
+    <string name="extracting_msg">Mengekstrak  &#8230;</string>
+    <string name="loading_msg">Menganalisa aplikasi &#8230;</string>
+    <string name="options_title_share">bagikan</string>
+    <string name="options_title_info">info</string>
+    <string name="empty_folder">Folder Kosong</string>
+    <string name="create_directory">Buat</string>
+    <string name="set_dir_path">Terapkan</string>
+    <string name="str_directory_exists">Direktori sudah ada</string>
+    <string name="str_invalid_dir_create">Direktori tidak dapat dibuat disini</string>
+    <string name="str_invalid_dir_set">Tidak dapat menerapkan direktori ini.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Tidak dapat mengekstrak! kartu memori tidak dapat ditulis</string>
+    <string name="MEDIA_CHECKING">Pemindaian media sedang dalam proses, silahkan coba lagi nanti.</string>
+    <string name="MEDIA_NOFS">Tidak dapat mengekstrak, kartu memori tidak mendukung file sistem! </string>
+    <string name="MEDIA_SHARED">Tidak dapat mengekstrak, kartu memori dibagikan</string>
+    <string name="MEDIA_REMOVED">Harap masukkan kartu memori dan ekstrak</string>
+    <string name="MEDIA_BAD_REMOVAL">Tidak dapat mengekstrak, kartu memori tidak mendukung</string>
+    <string name="MEDIA_UNKNOWN">Tidak dapat mengekstrak, kartu memori tidak mendukung</string>
+    <string name="MEDIA_UNMOUNTABLE">Tidak dapat mengekstrak, kartu memori tidak mendukung</string>
+    <string name="MEDIA_UNMOUNTED">Tidak dapat mengekstrak, kartu memori tidak mendukung</string>
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="error_msg">Error</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Batalkan</string>
+    <string name="dialog_title_directory_name">Nama Direktori</string>
+    <string name="summary_no_sdcard"> &lt; tidak ada kartu memori -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">DIDESAIN &amp; DIKEMBANGKAN OLEH </string>
+    <string name="title_translators">DITERJEMAHKAN OLEH</string>
+    <string name="summary_rate_us">Tunjukkan pada kami dukungan Anda</string>
+    <string name="contact_us">Hubungi Kami</string>
+
+</resources>

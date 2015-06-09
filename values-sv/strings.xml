@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Sök</string>
+    <string name="acton_rate_us">Betygsätt oss</string>
+    <string name="action_file">Fil</string>
+    <string name="action_share">Dela</string>
+    <string name="str_show_system_apps">Visa systemapplikationer</string>
+    <string name="str_show_user_apps">Visa nedladdade applikationer</string>
+    <string name="show_all_apps_title">Visa alla applikationer</string>
+    <string name="settings">Inställningar</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">Kryssruta</string>
+    <string name="options">Alternativ</string>
+    <string name="icon">Ikon</string>
+    <string name="file">Fil</string>
+    <string name="check">Kryssa</string>
+    <string name="extract">Extrahera</string>
+    <string name="share">Dela</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Mappen där filerna sparas:</string>
+    <string name="title_rate_us">Betygsätt applikationen</string>
+    <string name="title_version">Version</string>
+    <string name="summmay_on">Visar alla applikationer i en enda lista</string>
+    <string name="summmay_off">Visar användar installerade och system installerade applikationer skilt</string>
+    <string name="summary_file_saved_path">&lt; Inget sd-kort &gt;</string><!-- < no sdcard > -->
+	<string name="title_about">Om oss</string>
+
+    <!-- messages -->
+    <string name="extract_success">Extraherad till mappen:</string>
+    <string name="share_msg">Hur vill du dela filen?</string>
+    <string name="extracting_msg">Extraherar&#8230;</string>
+    <string name="loading_msg">Analyserar applikationer&#8230;</string>
+    <string name="options_title_share">Dela</string>
+    <string name="options_title_info">Information</string>
+    <string name="empty_folder">Tom mapp</string>
+    <string name="create_directory">Skapa mapp</string>
+    <string name="set_dir_path">Välj mapp</string>
+    <string name="str_directory_exists">Mappen finns redan</string>
+    <string name="str_invalid_dir_create">Mappen kan inte skapas här</string>
+    <string name="str_invalid_dir_set">Kan inte välja den här mappen.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Kan inte extrahera! Kan inte skriva på sd-kortet</string>
+    <string name="MEDIA_CHECKING">anning under arbete, vänligen försök igen senare</string>
+    <string name="MEDIA_NOFS">Kan inte extrahera, sd-kortet stöder inte filentypen!</string>
+    <string name="MEDIA_SHARED">Kan inte extrahera, sd-kortet är delat</string>
+    <string name="MEDIA_REMOVED">Var vänlig och sätt in ett sd-kort för att extrahera</string>
+    <string name="MEDIA_BAD_REMOVAL">Kan inte extrahera, sd-kortet stöds inte</string>
+    <string name="MEDIA_UNKNOWN">Kan inte extrahera, sd-kortet stöds inte</string>
+    <string name="MEDIA_UNMOUNTABLE">Kan inte extrahera, sd-kortet stöds inte</string>
+    <string name="MEDIA_UNMOUNTED">Kan inte extrahera, sd-kortet stöds inte</string>
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="error_msg">Error</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Avbryt</string>
+    <string name="dialog_title_directory_name">Mappens namn</string>
+    <string name="summary_no_sdcard"> &lt; Inget sd-kort -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">DESIGNAD &amp; UTVECKLAD AV </string>
+    <string name="title_translators">ÖVERSÄTTNINGAR AV</string>
+    <string name="summary_rate_us">Visa oss ditt stöd</string>
+    <string name="contact_us">Kontakta oss</string>
+
+</resources>

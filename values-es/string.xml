@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Buscar</string>
+    <string name="acton_rate_us">Califícanos</string>
+    <string name="action_file">archivo</string>
+    <string name="action_share">compartir</string>
+    <string name="str_show_system_apps">Aplicaciones del sistema</string>
+    <string name="str_show_user_apps">Aplicaciones descargadas</string>
+    <string name="show_all_apps_title">Todas las aplicaciones</string>
+    <string name="settings">Ajustes</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">checkbox</string>
+    <string name="options">opciones</string>
+    <string name="icon">icono</string>
+    <string name="file">archivo</string>
+    <string name="check">Revisar</string>
+    <string name="extract">Extraer</string>
+    <string name="share">Compartir</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Ruta de archivos</string>
+    <string name="title_rate_us">Calificar</string>
+    <string name="title_version">Versión</string>
+    <string name="summmay_on">Mostrar todas las aplicaciones en una sola lista</string>
+    <string name="summmay_off">Categorizar las aplicaciones descargadas y las del sistema</string>
+    <string name="summary_file_saved_path">&lt; no hay tarjeta de memoria &gt;</string> <!-- < no sdcard > -->
+    <string name="title_about">Acerca de</string>
+
+    <!-- messages -->
+    <string name="extract_success">Extraido en la carpeta :</string>
+    <string name="share_msg">¿Cómo quieres compartir?</string>
+    <string name="extracting_msg">Extrayendo &#8230;</string>
+    <string name="loading_msg">Analizando aplicaciones &#8230;</string>
+    <string name="options_title_share">compartir</string>
+    <string name="options_title_info">detalles</string>
+    <string name="empty_folder">Carpeta vacía</string>
+    <string name="create_directory">Crear</string>
+    <string name="set_dir_path">Cambiar</string>
+    <string name="str_directory_exists">La carpeta ya existe</string>
+    <string name="str_invalid_dir_create">La carpeta no se puede crear aquí</string>
+    <string name="str_invalid_dir_set">No se puede crear la carpeta</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">No se puede extraer, memoria protegida.</string>
+    <string name="MEDIA_CHECKING">Analizando archivos, por favor intenta mas tarde.</string>
+    <string name="MEDIA_NOFS">No se puede extraer, sistema de archivos no soportado.</string>
+    <string name="MEDIA_SHARED">No se puede extraer, la memoria es compartida.</string>
+    <string name="MEDIA_REMOVED">Por favor, inserta una tarjeta de memoria.</string>
+    <string name="MEDIA_BAD_REMOVAL">No se puede extraer, memoria no soportada.</string>
+    <string name="MEDIA_UNKNOWN">No se puede extraer, memoria no soportada.</string>
+    <string name="MEDIA_UNMOUNTABLE">No se puede extraer, memoria no soportada.</string>
+    <string name="MEDIA_UNMOUNTED">No se puede extraer, memoria no soportada.</string>
+    <string name="error_msg">Error</string>
+    <string name="str_button_ok">Aceptar</string>
+    <string name="str_button_cancel">Cancelar</string>
+    <string name="dialog_title_directory_name">Nombre de carpeta</string>
+    <string name="summary_no_sdcard"> &lt; no hay memoria -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">DISEÑADO &amp; DESARROLLADO POR </string>
+    <string name="title_translators">TRADUCCIONES POR</string>
+    <string name="summary_rate_us">Ayúdanos a mejorar</string>
+    <string name="contact_us">Contacto</string>
+
+    <string-array name="listarray">
+        <item>Nombre + Versión + Código de versión</item>
+        <item>Nombre + Versión</item>
+        <item>Nombre</item>
+    </string-array>
+
+    <string name="file_name_format">Formato del archivo APK a guardar</string>
+    <string name="name_format_type_summary">Formato del nombre de la aplicación extraída</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="key_pref_path">saved_path</string>
+    <string name="key_rate_us">rate_us</string>
+    <string name="key_version">version_name</string>
+    <string name="PREF_KEY_VERSION">version</string>
+    <string name="PREF_KEY_FILE_PATH">path</string>
+    <string name="PREF_KEY_CUSTOM_PATH">custom_path</string>
+    <string name="key_all_app_state">key_all_app_state</string>
+    <string name="key_about">key_about_us</string>
+    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+
+    <string-array name="list_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- Google plus  profiles -->
+
+    <string name="developer_profile"><a href="https://plus.google.com/u/0/105960161078342289646/posts">Meher Prasad</a></string>
+    <string name="italian_translator">Nick bovirus (Italian)</string>
+    <string name="portuguese_brazilian_translator"><a href="https://plus.google.com/u/1/111756157845119690934">Edgar Mendes (Protugese-Brazilan)</a></string>
+    <string name="turkish_translator"><a href="https://plus.google.com/u/1/116359577207499842474">Figen Güngör (Turkey)</a></string>
+    <string name="polski_translator"><a href="https://plus.google.com/118077528741004122671">Jakub Magdowski (Polski)</a></string>
+    <string name="spanish_translator"><a href="https://twitter.com/lalongooo">Jorge E. Hernández (Spanish)</a></string>
+
+</resources>

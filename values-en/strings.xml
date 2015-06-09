@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
 
     <!-- global messages -->
@@ -28,16 +28,15 @@
     <string name="title_rate_us">Rate</string>
     <string name="title_version">Version</string>
     <string name="summmay_on">Displays all applications in a single list</string>
-    <string name="summmay_off">User installed and System installed applications are categorized </string>
-    <string name="summary_file_saved_path">&lt; no sdcard &gt;</string>
-    <!-- < no sdcard > -->
+    <string name="summmay_off">User installed and System installed applications are categorized</string>
+    <string name="summary_file_saved_path">\u003c no sdcard \u003e</string> <!-- < no sdcard > -->
     <string name="title_about">About us</string>
 
     <!-- messages -->
     <string name="extract_success">Extracted to path :</string>
     <string name="share_msg">How do you want to share?</string>
-    <string name="extracting_msg">Extracting &#8230;</string>
-    <string name="loading_msg">Loading applications &#8230;</string>
+    <string name="extracting_msg">Extracting …</string>
+    <string name="loading_msg">Loading applications …</string>
     <string name="options_title_share">share</string>
     <string name="options_title_info">info</string>
     <string name="empty_folder">Empty Folder</string>
@@ -49,19 +48,19 @@
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable</string>
-    <string name="MEDIA_CHECKING">Media scanning under progress,please try again later.</string>
-    <string name="MEDIA_NOFS">Cannot extract,sdcard unsupported file system ! </string>
-    <string name="MEDIA_SHARED">Cannot Extract, sdcard is shared</string>
+    <string name="MEDIA_CHECKING">Media scanning under progress</string>
+    <string name="MEDIA_NOFS">Cannot extract</string>
+    <string name="MEDIA_SHARED">Cannot Extract</string>
     <string name="MEDIA_REMOVED">Please insert sdcard and extract</string>
-    <string name="MEDIA_BAD_REMOVAL">Cannot extract,sdcard is not supported</string>
-    <string name="MEDIA_UNKNOWN">Cannot extract,sdcard is not supported</string>
-    <string name="MEDIA_UNMOUNTABLE">Cannot extract,sdcard is not supported</string>
-    <string name="MEDIA_UNMOUNTED">Cannot extract,sdcard is not supported</string>
+    <string name="MEDIA_BAD_REMOVAL">Cannot extract</string>
+    <string name="MEDIA_UNKNOWN">Cannot extract</string>
+    <string name="MEDIA_UNMOUNTABLE">Cannot extract</string>
+    <string name="MEDIA_UNMOUNTED">Cannot extract</string>
     <string name="error_msg">Error</string>
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Cancel</string>
     <string name="dialog_title_directory_name">Directory Name</string>
-    <string name="summary_no_sdcard"> &lt; no sd card -&gt; </string>
+    <string name="summary_no_sdcard">\u003c no sd card -\u003e</string>
 
     <!-- new strings -->
     <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
@@ -69,7 +68,6 @@
     <string name="summary_rate_us">Show us your support</string>
     <string name="contact_us">Contact us</string>
     <string name="no_matches_found">No matches found</string>
-    <string name="name_format_type">file_type</string>
 
     <string-array name="listarray">
         <item>Name + Version + Version Code</item>
@@ -77,7 +75,7 @@
         <item> Name</item>
     </string-array>
 
-        <string name="file_name_format">Apk file name saving format</string>
+    <string name="file_name_format">Apk file name saving format</string>
     <string name="name_format_type_summary">Extracted application naming convention</string>
 
 </resources>
