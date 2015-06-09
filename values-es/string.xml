@@ -67,7 +67,8 @@
     <string name="title_translators">TRADUCCIONES POR</string>
     <string name="summary_rate_us">Ayúdanos a mejorar</string>
     <string name="contact_us">Contacto</string>
-
+	<string name="no_matches_found">No matches found</string>
+    
     <string-array name="listarray">
         <item>Nombre + Versión + Código de versión</item>
         <item>Nombre + Versión</item>

@@ -30,8 +30,7 @@
     <string name="summmay_on">Mostrar todos aplicativos em lista única</string>
     <string name="summmay_off">Filtrar aplicativos por categoria </string>
     <string name="summary_file_saved_path">&lt; sem cartão de memória &gt;</string>
-    <!-- < sem cartão de memória > -->
-
+    <string name="title_about">About us</string>
 
     <!-- messages -->
     <string name="extract_success">Extraído para a pasta :</string>
@@ -72,11 +71,11 @@
 
     <string-array name="listarray">
         <item>Nome+ Versão + Versão do Código</item>
-        <item> Nome + Versão</item>
-        <item> Nome</item>
+        <item>Nome + Versão</item>
+        <item>Nome</item>
 </string-array>
 
-     <string name="file_name_format">Nome do formato do arquivo APK a ser salvo</string>
+    <string name="file_name_format">Nome do formato do arquivo APK a ser salvo</string>
     <string name="name_format_type_summary">Tipo de nome do aplicativo extraído</string>
 
 </resources>

@@ -29,8 +29,8 @@
     <string name="title_version">Versi</string>
     <string name="summmay_on">Tampilkan semua aplikasi dalam daftar tunggal</string>
     <string name="summmay_off">Aplikasi pengguna dan Aplikasi sistem yang terpasang telah dikategorikan </string>
-    <string name="summary_file_saved_path">&lt; tidak ada kartu memori &gt;</string><!-- < no sdcard > -->
-	<string name="title_about">Tentang kami</string>
+    <string name="summary_file_saved_path">&lt; tidak ada kartu memori &gt;</string>
+    <string name="title_about">Tentang kami</string>
 
     <!-- messages -->
     <string name="extract_success">Telah diekstrak ke:</string>
@@ -56,7 +56,6 @@
     <string name="MEDIA_UNKNOWN">Tidak dapat mengekstrak, kartu memori tidak mendukung</string>
     <string name="MEDIA_UNMOUNTABLE">Tidak dapat mengekstrak, kartu memori tidak mendukung</string>
     <string name="MEDIA_UNMOUNTED">Tidak dapat mengekstrak, kartu memori tidak mendukung</string>
-    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Error</string>
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Batalkan</string>
@@ -68,5 +67,15 @@
     <string name="title_translators">DITERJEMAHKAN OLEH</string>
     <string name="summary_rate_us">Tunjukkan pada kami dukungan Anda</string>
     <string name="contact_us">Hubungi Kami</string>
+	<string name="no_matches_found">No matches found</string>
+    
+    <string-array name="listarray">
+        <item>Nama + Versi + Kode Versi</item>
+        <item>Nama + Versi</item>
+        <item>Nama</item>
+    </string-array>
+
+    <string name="file_name_format">Nama format menyimpan file Apk</string>
+    <string name="name_format_type_summary">Konvensi penamaan aplikasi yang diekstrak</string>
 
 </resources>

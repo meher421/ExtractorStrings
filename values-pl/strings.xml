@@ -71,8 +71,8 @@
 
     <string-array name="listarray">
         <item>Nazwa + Wersja+ Wersja kodu</item>
-        <item> Nazwa + Wersja</item>
-        <item> Nazwa</item>
+        <item>Nazwa + Wersja</item>
+        <item>Nazwa</item>
     </string-array>
 
     <string name="file_name_format">Format nazwy zapisanego pliku APK</string>

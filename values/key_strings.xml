@@ -10,6 +10,8 @@
     <string name="key_all_app_state">key_all_app_state</string>
     <string name="key_about">key_about_us</string>
     <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
+    <string name="name_format_type">file_type</string>
+    
 
     <string-array name="list_values">
         <item>1</item>

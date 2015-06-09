@@ -29,7 +29,7 @@
     <string name="title_version">Version</string>
     <string name="summmay_on">Alle Apps in einer Liste anzeigen</string>
     <string name="summmay_off">Installierte Benutzer- und Systemanwendungen kategorisieren</string>
-    <string name="summary_file_saved_path">&lt; keine SD-Karte &gt;</string><!-- < no sdcard > -->
+    <string name="summary_file_saved_path">&lt; keine SD-Karte &gt;</string>
     <string name="title_about">Über uns</string>
 
     <!-- messages -->
@@ -56,7 +56,6 @@
     <string name="MEDIA_UNKNOWN">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
     <string name="MEDIA_UNKNOWNTABLE">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
     <string name="MEDIA_UNMOUNTED">Extrahieren fehlgeschlagen. SD-Karte ist nicht gemounted</string>
-    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Fehler</string>
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Abbrechen</string>
@@ -68,5 +67,15 @@
     <string name="title_translators">ÜBERSETZUNGEN VON</string>
     <string name="summary_rate_us">Unterstütze uns</string>
     <string name="contact_us">Kontaktieren</string>
+	<string name="no_matches_found">No matches found</string>
+
+    <string-array name="listarray">
+        <item>Name + Version + Versionsnummer</item>
+        <item>Name + Version</item>
+        <item>Name</item>
+    </string-array>
+
+    <string name="file_name_format">Dateinamenformat</string>
+    <string name="name_format_type_summary">Namenskonvention für extrahierte App</string>
 
 </resources>

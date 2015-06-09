@@ -70,9 +70,9 @@
     <string name="no_matches_found">Nessuna corrispondenza trovata</string>
 
     <string-array name="listarray">
-        <item> Nome + versione + codice versione</item>
-        <item> Nome + versione</item>
-        <item> Nome</item>
+        <item>Nome + versione + codice versione</item>
+        <item>Nome + versione</item>
+        <item>Nome</item>
     </string-array>
 
     <string name="file_name_format">Formato nome file salvataggio APK</string>

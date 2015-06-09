@@ -30,8 +30,7 @@
     <string name="summmay_on">Tüm uygulamaları tek bir listede gösterir</string>
     <string name="summmay_off">Kullanıcı yüklü ve Sistem yüklü uygulamalar sınıflandırılır</string>
     <string name="summary_file_saved_path">&lt; sdcard yok &gt;</string>
-    <!-- < no sdcard > -->
-
+    <string name="title_about">About us</string>
 
     <!-- messages -->
     <string name="extract_success">Dosya yoluna çıkarıldı :</string>

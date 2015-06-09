@@ -30,7 +30,6 @@
     <string name="summmay_on">Displays all applications in a single list</string>
     <string name="summmay_off">User installed and System installed applications are categorized </string>
     <string name="summary_file_saved_path">&lt; no sdcard &gt;</string>
-    <!-- < no sdcard > -->
     <string name="title_about">About us</string>
 
     <!-- messages -->
@@ -69,15 +68,14 @@
     <string name="summary_rate_us">Show us your support</string>
     <string name="contact_us">Contact us</string>
     <string name="no_matches_found">No matches found</string>
-    <string name="name_format_type">file_type</string>
-
+    
     <string-array name="listarray">
         <item>Name + Version + Version Code</item>
-        <item> Name + Version</item>
-        <item> Name</item>
+        <item>Name + Version</item>
+        <item>Name</item>
     </string-array>
 
-        <string name="file_name_format">Apk file name saving format</string>
+    <string name="file_name_format">Apk file name saving format</string>
     <string name="name_format_type_summary">Extracted application naming convention</string>
 
 </resources>
