@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">검색</string>
+    <string name="acton_rate_us">추천하기</string>
+    <string name="action_file">파일</string>
+    <string name="action_share">공유</string>
+    <string name="str_show_system_apps">시스템 앱 보기</string>
+    <string name="str_show_user_apps">유저 앱 보기</string>
+    <string name="show_all_apps_title">모든 앱 보기</string>
+    <string name="settings">설정</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">체크박스</string>
+    <string name="options">옵션</string>
+    <string name="icon">아이콘</string>
+    <string name="file">파일</string>
+    <string name="check">확인</string>
+    <string name="extract">추출</string>
+    <string name="share">공유</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">저장 경로</string>
+    <string name="title_rate_us">추천하기</string>
+    <string name="title_version">버전</string>
+    <string name="summmay_on">모든 앱을 한 리스트에 표시</string>
+    <string name="summmay_off">유저 앱과 시스템 앱을 분류합니다</string>
+    <string name="summary_file_saved_path">&lt; SD카드가 없습니다 &gt;</string>
+    <string name="title_about">개발자 및 도움을 주신 분들</string>
+
+    <!-- messages -->
+    <string name="extract_success">다음 경로에 추출되었습니다: </string>
+    <string name="share_msg">공유할 앱 선택</string>
+    <string name="extracting_msg">추출중 &#8230;</string>
+    <string name="loading_msg">앱을 로딩하고 있습니다 &#8230;</string>
+    <string name="options_title_share">공유</string>
+    <string name="options_title_info">앱 정보</string>
+    <string name="empty_folder">빈 디렉토리</string>
+    <string name="create_directory">디렉토리 생성</string>
+    <string name="set_dir_path">경로 설정</string>
+    <string name="str_directory_exists">디렉토리가 이미 존재합니다</string>
+    <string name="str_invalid_dir_create">이 위치에 디렉토리를 생성 할 수 없습니다</string>
+    <string name="str_invalid_dir_set">이 위치로 디렉토리를 설정 할 수 없습니다.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">추출 실패! SD카드가 읽기 전용 모드입니다</string>
+    <string name="MEDIA_CHECKING">미디어를 스캔하고 있습니다, 잠시 후 다시 시도해 주세요.</string>
+    <string name="MEDIA_NOFS">추출할 수 없습니다, SD카드가 지원되지 않는 파일 시스템을 사용합니다! </string>
+    <string name="MEDIA_SHARED">추출할 수 없습니다, SD카드가 공유어 있습니다</string>
+    <string name="MEDIA_REMOVED">SD카드를 넣고 추출해 주세요</string>
+    <string name="MEDIA_BAD_REMOVAL">추출할 수 없습니다, SD카드가 지원되지 않습니다</string>
+    <string name="MEDIA_UNKNOWN">추출할 수 없습니다, SD카드가 지원되지 않습니다</string>
+    <string name="MEDIA_UNMOUNTABLE">추출할 수 없습니다, SD카드가 지원되지 않습니다</string>
+    <string name="MEDIA_UNMOUNTED">추출할 수 없습니다, SD카드가 지원되지 않습니다</string>
+    <string name="error_msg">에러</string>
+    <string name="str_button_ok">확인</string>
+    <string name="str_button_cancel">취소</string>
+    <string name="dialog_title_directory_name">디렉토리 이름</string>
+    <string name="summary_no_sdcard"> &lt; SD카드가 없습니다 -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">디자인 &amp; 개발</string>
+    <string name="title_translators">번역</string>
+    <string name="summary_rate_us">추천하기</string>
+    <string name="contact_us">개발자와 연락</string>
+    <string name="no_matches_found">매칭된 것을 찾지 못했습니다</string>
+    
+    <string-array name="listarray">
+        <item>앱이름 + 앱버전 + 앱버전코드</item>
+        <item>앱이름 + 앱버전</item>
+        <item>앱이름</item>
+    </string-array>
+
+    <string name="file_name_format">Apk 파일 이름 형식</string>
+    <string name="name_format_type_summary">추출된 앱의 이름 형식을 설정합니다</string>
+
+</resources>
