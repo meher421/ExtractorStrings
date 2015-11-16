@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Поиск</string>
+    <string name="acton_rate_us">Оценить</string>
+    <string name="action_file">Файл</string>
+    <string name="action_share">Отправить</string>
+    <string name="str_show_system_apps">Показать системные приложения</string>
+    <string name="str_show_user_apps">Показать приложения пользователя</string>
+    <string name="show_all_apps_title">Показать все приложения</string>
+    <string name="settings">Настройки</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">Клетка</string>
+    <string name="options">Опции</string>
+    <string name="icon">Иконка</string>
+    <string name="file">Файл</string>
+    <string name="check">Проверить</string>
+    <string name="extract">Извлечь</string>
+    <string name="share">Отправить</string>
+
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Сохранить в</string>
+    <string name="title_rate_us">Оценить</string>
+    <string name="title_version">Версия</string>
+    <string name="summmay_on">Показать все приложения в одном списке</string>
+    <string name="summmay_off">Установленные приложения пользователя и системные приложения распределены по категориям</string>
+    <string name="summary_file_saved_path">&lt; отсутствует карта памяти ></string>
+    <string name="title_about">О нас</string>
+
+    <!-- messages -->
+    <string name="extract_success">Извлечено в:</string>
+    <string name="share_msg">Как вы хотите отправить?</string>
+    <string name="extracting_msg">Извлекаем</string>
+    <string name="loading_msg">Загружаются приложения</string>
+    <string name="options_title_share">Отправить</string>
+    <string name="options_title_info">Информация</string>
+    <string name="empty_folder">Пустая папка</string>
+    <string name="create_directory">Создать</string>
+    <string name="set_dir_path">Установить</string>
+    <string name="str_directory_exists">Директория уже существует</string>
+    <string name="str_invalid_dir_create">Директория не может быть создана</string>
+    <string name="str_invalid_dir_set">Невозможно установить директорию</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_BAD_REMOVAL">Невозможно извлечь, не поддерживается карта памяти</string>
+    <string name="MEDIA_CHECKING">Идет сканирование файлов, повторите попытку позже</string>
+    <string name="MEDIA_MOUNTED_READ_ONLY">Невозможно извлечь, невозможно записать на карту памяти</string>
+    <string name="MEDIA_NOFS">Невозможно извлечь, ошибка файловой системы</string>
+    <string name="MEDIA_REMOVED">Пожалуйста, вставьте карту памяти и извлеките</string>
+    <string name="MEDIA_SHARED">Невозможно извлечь, карта памяти еще используется</string>
+    <string name="MEDIA_UNKNOWN">Невозможно извлечь, не поддерживается карта памяти</string>
+    <string name="MEDIA_UNMOUNTED">Невозможно извлечь, не поддерживается карта памяти</string>
+    <string name="MEDIA_UNMOUNTABLE">Невозможно извлечь, не поддерживается карта памяти</string>
+    <string name="error_msg">Ошибка</string>
+    <string name="str_button_ok">ОК</string>
+    <string name="str_button_cancel">Отмена</string>
+    <string name="dialog_title_directory_name">Наименование директории</string>
+    <string name="summary_no_sdcard">&lt; отсутствует карта памяти -></string>
+
+    <!-- new strings -->
+    <string name="tile_developer">ДИЗАЙН &amp; РАЗРАБОТКА</string>
+    <string name="title_translators">ПЕРЕВЕЛИ</string>
+    <string name="summary_rate_us">Поддержать</string>
+    <string name="contact_us">Контакты</string>
+    <string name="no_matches_found">Совпадений не найдено</string>
+
+    <string-array name="listarray">
+        <item>+ Уникальное имя пакета</item>
+        <item>+ Версия приложения</item>
+        <item>+ Версия API</item>
+    </string-array>
+
+    <string name="file_name_format">Формат сохранения приложения</string>
+    <string name="name_format_type_summary">Формат извлечения приложения</string>
+    <string name="title_premium">Получить ПРЕМИУМ версию</string>
+    <string name="summary_go_premium">Удалить рекламу</string>
+
+</resources>
