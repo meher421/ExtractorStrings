@@ -29,8 +29,8 @@
     <string name="title_version">Versión</string>
     <string name="summmay_on">Mostrar todas las aplicaciones en una sola lista</string>
     <string name="summmay_off">Categorizar las aplicaciones descargadas y las del sistema</string>
-    <string name="summary_file_saved_path">&lt; no hay tarjeta de memoria &gt;</string><!-- < no sdcard > -->
-	<string name="title_about">Acerca de</string>
+    <string name="summary_file_saved_path">&lt; no hay tarjeta de memoria &gt;</string>
+    <string name="title_about">Acerca de</string>
 
     <!-- messages -->
     <string name="extract_success">Extraido en la carpeta :</string>
@@ -56,7 +56,6 @@
     <string name="MEDIA_UNKNOWN">No se puede extraer, memoria no soportada.</string>
     <string name="MEDIA_UNMOUNTABLE">No se puede extraer, memoria no soportada.</string>
     <string name="MEDIA_UNMOUNTED">No se puede extraer, memoria no soportada.</string>
-    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Error</string>
     <string name="str_button_ok">Aceptar</string>
     <string name="str_button_cancel">Cancelar</string>
@@ -68,5 +67,17 @@
     <string name="title_translators">TRADUCCIONES POR</string>
     <string name="summary_rate_us">Ayúdanos a mejorar</string>
     <string name="contact_us">Contacto</string>
+    <string name="no_matches_found">No matches found</string>
+
+    <string-array name="listarray">
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
+    </string-array>
+
+    <string name="file_name_format">Formato del archivo APK a guardar</string>
+    <string name="name_format_type_summary">Formato del nombre de la aplicación extraída</string>
+    <string name="title_premium">Cambiar a Premium</string>
+    <string name="summary_go_premium">Elimina publicidad</string>
 
 </resources>

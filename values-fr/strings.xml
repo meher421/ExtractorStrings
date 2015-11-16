@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Recherche</string>
+    <string name="acton_rate_us">Évaluez nous</string>
+    <string name="action_file">Fichier</string>
+    <string name="action_share">Partage</string>
+    <string name="str_show_system_apps">Afficher les applications système</string>
+    <string name="str_show_user_apps">Afficher les applications utilisateur</string>
+    <string name="show_all_apps_title">Afficher toutes les applications</string>
+    <string name="settings">Paramètres</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">Choix d\'options</string>
+    <string name="options">Options</string>
+    <string name="icon">Icône</string>
+    <string name="file">Fichier</string>
+    <string name="check">Tester</string>
+    <string name="extract">Extraire</string>
+    <string name="share">Partager</string>
+
+    **<!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Répertoire de sauvegarde</string>
+    <string name="title_rate_us">Évaluez nous</string>
+    <string name="title_version">Version</string>
+    <string name="summmay_on">Affiche toutes les applications en une seule liste</string>
+    <string name="summmay_off">Applications utilisateur et applications système dans des listes séparées</string>
+    <string name="summary_file_saved_path">&lt; Pas de carte SD &gt;</string>
+    <string name="title_about">A propos</string>
+
+    **<!-- messages -->
+    <string name="extract_success">Extraction vers :</string>
+    <string name="share_msg">Comment souhaitez-vous partager ?</string>
+    <string name="extracting_msg">En cours d\'extraction &#8230;</string>
+    <string name="loading_msg">Chargement des applications &#8230;</string>
+    <string name="options_title_share">Partager</string>
+    <string name="options_title_info">Information</string>
+    <string name="empty_folder">Répertoire vide</string>
+    <string name="create_directory">Création</string>
+    <string name="set_dir_path">Validation</string>
+    <string name="str_directory_exists">Ce répertoire existe déjà</string>
+    <string name="str_invalid_dir_create">Ce répertoire ne peut être créé à cet emplacement</string>
+    <string name="str_invalid_dir_set">Répertoire invalide</string>
+
+    **<!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Extraction impossible ! carte SD en lecture seule</string>
+    <string name="MEDIA_CHECKING">Analyse du support en cours, réessayer plus tard</string>
+    <string name="MEDIA_NOFS">Extraction impossible, système de fichiers non supporté sur carte SD !</string>
+    <string name="MEDIA_SHARED">Extraction impossible, carte SD en cours de partage</string>
+    <string name="MEDIA_REMOVED">Insérez svp une carte SD pour extraction</string>
+    <string name="MEDIA_BAD_REMOVAL">Extraction impossible, carte SD non supportée</string>
+    <string name="MEDIA_UNKNOWN">Extraction impossible, carte SD non supportée</string>
+    <string name="MEDIA_UNMOUNTABLE">Extraction impossible, carte SD non supportée</string>
+    <string name="MEDIA_UNMOUNTED">Extraction impossible, carte SD non supportée</string>
+    <string name="error_msg">Erreur</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Annuler</string>
+    <string name="dialog_title_directory_name">Nom du Répertoire</string>
+    <string name="summary_no_sdcard"> &lt; pas de carte SD -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">CONCEPTION &amp; DEVELOPPEMENT PAR </string>
+    <string name="title_translators">TRADUCTIONS PAR</string>
+    <string name="summary_rate_us">Supportez nous</string>
+    <string name="contact_us">Contactez nous</string>
+    <string name="no_matches_found">Pas de correspondances trouvées</string>
+
+    <string-array name="listarray">
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
+    </string-array>
+
+    <string name="file_name_format">Format de sauvegarde des fichiers APK</string>
+    <string name="name_format_type_summary">Convention de nommage des applications extraites</string>
+	<string name="title_premium">Go Premium</string>
+    <string name="summary_go_premium">Supprime annonces</string>
+
+</resources>

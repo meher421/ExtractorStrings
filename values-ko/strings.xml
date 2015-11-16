@@ -68,14 +68,16 @@
     <string name="summary_rate_us">추천하기</string>
     <string name="contact_us">개발자와 연락</string>
     <string name="no_matches_found">매칭된 것을 찾지 못했습니다</string>
-    
+
     <string-array name="listarray">
-        <item>앱이름 + 앱버전 + 앱버전코드</item>
-        <item>앱이름 + 앱버전</item>
-        <item>앱이름</item>
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
     </string-array>
 
     <string name="file_name_format">Apk 파일 이름 형식</string>
     <string name="name_format_type_summary">추출된 앱의 이름 형식을 설정합니다</string>
+    <string name="title_premium">프리미엄으로 전환</string>
+    <string name="summary_go_premium">광고 제거</string>
 
 </resources>

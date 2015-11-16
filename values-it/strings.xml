@@ -29,14 +29,15 @@
     <string name="title_version">Versione</string>
     <string name="summmay_on">Visualizza tutte le applicazioni in un elenco</string>
     <string name="summmay_off">Le applicazioni utente e di sistema sono categorizzate</string>
-    <string name="summary_file_saved_path">&lt; no sdcard &gt;</string> <!-- < no sdcard > -->
+    <string name="summary_file_saved_path">&lt; no sdcard &gt;</string>
+    <!-- < no sdcard > -->
     <string name="title_about">chi siamo</string>
 
     <!-- messages -->
     <string name="extract_success">App salvata nel file :</string>
     <string name="share_msg">Come vuoi condividere?</string>
     <string name="extracting_msg">Estrazione &#8230;</string>
-    <string name="loading_msg">applicazioni di carico &#8230;</string>
+    <string name="loading_msg">Caricamento applicazioni</string>
     <string name="options_title_share">Condividi</string>
     <string name="options_title_info">Info</string>
     <string name="empty_folder">Cartella vuota</string>
@@ -77,5 +78,7 @@
 
     <string name="file_name_format">Formato nome file salvataggio APK</string>
     <string name="name_format_type_summary">Convenzione nome applicazione estratta</string>
+    <string name="title_premium">Acquista Premium</string>
+    <string name="summary_go_premium">Rimuovi pubblicità</string>
 
 </resources>

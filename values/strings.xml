@@ -68,14 +68,16 @@
     <string name="summary_rate_us">Show us your support</string>
     <string name="contact_us">Contact us</string>
     <string name="no_matches_found">No matches found</string>
-    
+
     <string-array name="listarray">
-        <item>Name + Version + Version Code</item>
-        <item>Name + Version</item>
-        <item>Name</item>
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
     </string-array>
 
     <string name="file_name_format">Apk file name saving format</string>
     <string name="name_format_type_summary">Extracted application naming convention</string>
+    <string name="title_premium">Go Premium</string>
+    <string name="summary_go_premium">Removes advertisements</string>
 
 </resources>

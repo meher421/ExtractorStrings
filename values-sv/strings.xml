@@ -29,7 +29,8 @@
     <string name="title_version">Version</string>
     <string name="summmay_on">Visar alla applikationer i en enda lista</string>
     <string name="summmay_off">Visar användar installerade och system installerade applikationer skilt</string>
-    <string name="summary_file_saved_path">&lt; Inget sd-kort &gt;</string> <!-- < no sdcard > -->
+    <string name="summary_file_saved_path">&lt; Inget sd-kort &gt;</string>
+    <!-- < no sdcard > -->
     <string name="title_about">Om oss</string>
 
     <!-- messages -->
@@ -70,12 +71,14 @@
     <string name="contact_us">Kontakta oss</string>
 
     <string-array name="listarray">
-        <item>Namn + Version + Version kod</item>
-        <item>Namn + Version</item>
-        <item>Namn</item>
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
     </string-array>
 
     <string name="file_name_format">Apk filnamns format</string>
     <string name="name_format_type_summary">Format på extraherade apparnas namn</string>
+    <string name="title_premium">Bli premium</string>
+    <string name="summary_go_premium">Tar bort reklamerna</string>
 
 </resources>

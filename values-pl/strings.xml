@@ -29,7 +29,8 @@
     <string name="title_version">Wersja</string>
     <string name="summmay_on">Pokazuje wszystkie aplikacje w jednej liście</string>
     <string name="summmay_off">Aplikacje zainstalowane przez użytkownika oraz systemowe będą podzielone</string>
-    <string name="summary_file_saved_path">&lt; brak karty SD &gt;</string> <!-- < no sdcard > -->
+    <string name="summary_file_saved_path">&lt; brak karty SD &gt;</string>
+    <!-- < no sdcard > -->
     <string name="title_about">O nas</string>
 
     <!-- messages -->
@@ -77,5 +78,7 @@
 
     <string name="file_name_format">Format nazwy zapisanego pliku APK</string>
     <string name="name_format_type_summary">Konwencja nazywania ekstraktowanych APK</string>
+    <string name="title_premium">Zaktualizuj do premium</string>
+    <string name="summary_go_premium">Usuń reklamy</string>
 
 </resources>

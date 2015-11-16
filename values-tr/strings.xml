@@ -70,12 +70,13 @@
     <string name="no_matches_found">Hiçbir sonuç bulunamadı</string>
 
     <string-array name="listarray">
-        <item>İsim + Versiyon + Versiyon Kodu</item>
-        <item> İsim + Versiyon</item>
-        <item> İsim </item>
-	</string-array>
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
+    </string-array>
 
     <string name="file_name_format">Apk dosya ismi kayıt formatı</string>
     <string name="name_format_type_summary">Çıkarılan uygulama isim düzenlemesi</string>
-
+    <string name="title_premium">Premium\'a geç</string>
+    <string name="summary_go_premium">Reklamları kaldırır</string>
 </resources>

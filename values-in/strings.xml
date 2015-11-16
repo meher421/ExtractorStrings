@@ -67,15 +67,17 @@
     <string name="title_translators">DITERJEMAHKAN OLEH</string>
     <string name="summary_rate_us">Tunjukkan pada kami dukungan Anda</string>
     <string name="contact_us">Hubungi Kami</string>
-	<string name="no_matches_found">No matches found</string>
-    
+    <string name="no_matches_found">No matches found</string>
+
     <string-array name="listarray">
-        <item>Nama + Versi + Kode Versi</item>
-        <item>Nama + Versi</item>
-        <item>Nama</item>
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
     </string-array>
 
     <string name="file_name_format">Nama format menyimpan file Apk</string>
     <string name="name_format_type_summary">Konvensi penamaan aplikasi yang diekstrak</string>
+    <string name="title_premium">Jadikan Premium</string>
+    <string name="summary_go_premium">Hapus iklan</string>
 
 </resources>
