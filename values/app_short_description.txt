@@ -1,1 +1,1 @@
-Extracts the applications installed in your device and places in your SD card.
+Extracts installed applications on your device and places them on your SD card.

@@ -1,10 +1,12 @@
-APK Extractor will extracts APK which is installed on android device and copy to SD card.
-* Fast and easy to use.
-* Extracts all most all application,includes system applications.
-* No ROOT access required.
-* By Default Apk's will be saved in /sdcard/ExtractedApks/.
-* Provided Search option to search applications.
-* Compatible with latest version of Android 5.0
-* Saved apk format AppName_AppPackage_AppVersionName_AppVersionCode.apk
-* Action bar ,support from Android 2.2+ devices.
-* Can extract multiple/all apk's by holding long click on any item.
+<b>APK Extractor </b> will extracts APK that are installed on your android device and copies them to your SD card.
+
+★ Fast and easy to use.
+★ Extracts almost all application,including system applications.
+★ No ROOT access required.
+★ By Default Apk's will be saved in <b>/sdcard/ExtractedApks/.</b>
+★ Provided Search option to search applications.
+★ Compatible with latest version of Android 6.0
+★ Saved apk format <b>AppName_AppPackage_AppVersionName_AppVersionCode.apk.</b>
+★ Can extract multiple/all APK's by holding long click on any item.
+
+Interested in translating the application strings in various languages ? Strings are available in GitHub https://github.com/meher421/ExtractorStrings/tree/master/values .Please email me translated strings
