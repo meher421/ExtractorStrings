@@ -30,6 +30,7 @@
     <string name="summmay_on">Displays all applications in a single list</string>
     <string name="summmay_off">User installed and System installed applications are categorized</string>
     <string name="summary_file_saved_path">\u003c no sdcard \u003e</string>
+    <!-- < no sdcard > -->
     <string name="title_about">About us</string>
 
     <!-- messages -->
@@ -70,6 +71,7 @@
     <string name="no_matches_found">No matches found</string>
 
     <string-array name="listarray">
+        <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>
         <item>+ Version Code</item>

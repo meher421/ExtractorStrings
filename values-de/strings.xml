@@ -54,7 +54,7 @@
     <string name="MEDIA_REMOVED">Bitte lege eine SD-Karte ein und starte "Extrahieren"</string>
     <string name="MEDIA_BAD_REMOVAL">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
     <string name="MEDIA_UNKNOWN">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
-    <string name="MEDIA_UNKNOWNTABLE">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
+    <string name="MEDIA_UNMOUNTABLE">Extrahieren fehlgeschlagen. SD-Karte wird nicht unterstützt</string>
     <string name="MEDIA_UNMOUNTED">Extrahieren fehlgeschlagen. SD-Karte ist nicht gemounted</string>
     <string name="error_msg">Fehler</string>
     <string name="str_button_ok">OK</string>
@@ -70,6 +70,7 @@
     <string name="no_matches_found">No matches found</string>
 
     <string-array name="listarray">
+        <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>
         <item>+ Version Code</item>

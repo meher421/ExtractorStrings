@@ -70,6 +70,7 @@
     <string name="no_matches_found">Hiçbir sonuç bulunamadı</string>
 
     <string-array name="listarray">
+        <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>
         <item>+ Version Code</item>

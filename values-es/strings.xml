@@ -30,6 +30,7 @@
     <string name="summmay_on">Mostrar todas las aplicaciones en una sola lista</string>
     <string name="summmay_off">Categorizar las aplicaciones descargadas y las del sistema</string>
     <string name="summary_file_saved_path">&lt; no hay tarjeta de memoria &gt;</string>
+    <!-- < no sdcard > -->
     <string name="title_about">Acerca de</string>
 
     <!-- messages -->
@@ -70,6 +71,7 @@
     <string name="no_matches_found">No matches found</string>
 
     <string-array name="listarray">
+        <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>
         <item>+ Version Code</item>

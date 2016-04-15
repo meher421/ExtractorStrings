@@ -70,6 +70,7 @@
     <string name="no_matches_found">Pas de correspondances trouvées</string>
 
     <string-array name="listarray">
+        <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>
         <item>+ Version Code</item>
@@ -77,7 +78,6 @@
 
     <string name="file_name_format">Format de sauvegarde des fichiers APK</string>
     <string name="name_format_type_summary">Convention de nommage des applications extraites</string>
-	<string name="title_premium">Go Premium</string>
+    <string name="title_premium">Go Premium</string>
     <string name="summary_go_premium">Supprime annonces</string>
-
 </resources>

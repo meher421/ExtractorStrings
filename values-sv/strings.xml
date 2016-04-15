@@ -57,7 +57,6 @@
     <string name="MEDIA_UNKNOWN">Kan inte extrahera, sd-kortet stöds inte</string>
     <string name="MEDIA_UNMOUNTABLE">Kan inte extrahera, sd-kortet stöds inte</string>
     <string name="MEDIA_UNMOUNTED">Kan inte extrahera, sd-kortet stöds inte</string>
-    <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="error_msg">Error</string>
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Avbryt</string>
@@ -69,8 +68,10 @@
     <string name="title_translators">ÖVERSÄTTNINGAR AV</string>
     <string name="summary_rate_us">Visa oss ditt stöd</string>
     <string name="contact_us">Kontakta oss</string>
+    <string name="no_matches_found">Inga matchningar funna</string>
 
     <string-array name="listarray">
+        <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>
         <item>+ Version Code</item>

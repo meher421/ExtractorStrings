@@ -71,9 +71,10 @@
     <string name="no_matches_found">Nie znaleziono żadnego meczu</string>
 
     <string-array name="listarray">
-        <item>Nazwa + Wersja+ Wersja kodu</item>
-        <item>Nazwa + Wersja</item>
-        <item>Nazwa</item>
+        <item>+ App Name</item>
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
     </string-array>
 
     <string name="file_name_format">Format nazwy zapisanego pliku APK</string>
