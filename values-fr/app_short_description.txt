@@ -1,0 +1,1 @@
+Extracts apps  installed in device and stores in SD card.
