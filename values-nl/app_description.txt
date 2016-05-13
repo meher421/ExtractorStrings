@@ -1,0 +1,12 @@
+<b>APK Extractor </b> laat u toe de APK bestanden te verkijgen van de applicaties die geïnstalleerd zijn op uw android toestel en bewaard deze op uw SD kaart.
+
+★ Snel en gemakkelijk in gebruik.
+★ Laat toe om bijna alle applicaties te extraheren naar APK formaat, inclusief systeem applicaties.
+★ Geen ROOT access nodig.
+★ Standaard worden de APK's bewaard onder <b>/sdcard/ExtractedApks/.</b>
+★ Bijgeleverde Zoek optie om naar specifieke applicaties te zoeken.
+★ Compatibel met de laatste versie van Android (6.0).
+★ Naamgeving bewaarde APK's: <b>AppName_AppPackage_AppVersionName_AppVersionCode.apk.</b>
+★ Kan meerdere/alle APK's extraheren door eender welk item ingedrukt te houden.
+
+Geïnteresseerd om de applicatie strings te vertalen naar verschillende talen? Strings zijn beschikbaar op GitHub https://github.com/meher421/ExtractorStrings/tree/master/values . Indien u vertalingen heeft gemaakt kunt u mij deze via email opsturen. Bedankt bij voorbaat.

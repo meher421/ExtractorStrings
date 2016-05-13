@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Zoek</string>
+    <string name="acton_rate_us">Geef ons een rating</string>
+    <string name="action_file">bestand</string>
+    <string name="action_share">deel</string>
+    <string name="str_show_system_apps">Toon Systeem Apps</string>
+    <string name="str_show_user_apps">Toon Gebruiker Apps</string>
+    <string name="show_all_apps_title">Toon alle applicaties</string>
+    <string name="settings">Instellingen</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">keuzevakje</string> <!-- checkbox would also be fine in Dutch-->
+    <string name="options">opties</string>
+    <string name="icon">pictogram</string>
+    <string name="file">bestand</string>
+    <string name="check">Controleer</string> <!-- I translated check as in the verb "to check"-->
+    <string name="extract">Uitpakken</string>
+    <string name="share">Deel</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Bewaard pad</string>
+    <string name="title_rate_us">Beoordeling</string>
+    <string name="title_version">Versie</string>
+    <string name="summmay_on">Toon alle applicaties in een enkele lijst</string>
+    <string name="summmay_off">Gebruiker geïnstalleerde en Systeem geïnstalleerde applicaties zijn gecategoriseerd </string>
+    <string name="summary_file_saved_path">&lt; geen sdcard &gt;</string>
+    <string name="title_about">Over ons</string>
+
+    <!-- messages -->
+    <string name="extract_success">Uitgepakt naar map :</string>
+    <string name="share_msg">Hoe wil je delen?</string>
+    <string name="extracting_msg">Uitpakken &#8230;</string>
+    <string name="loading_msg">Applicaties worden geladen &#8230;</string>
+    <string name="options_title_share">deel</string>
+    <string name="options_title_info">info</string>
+    <string name="empty_folder">Lege Map</string>
+    <string name="create_directory">Aanmaken</string>
+    <string name="set_dir_path">Instellen</string>
+    <string name="str_directory_exists">Map bestaat al</string>
+    <string name="str_invalid_dir_create">Map kan hier niet worden aangemaakt</string>
+    <string name="str_invalid_dir_set">Deze map kan niet worden ingesteld.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Kan niet uitpakken! sdcard is niet beschrijfbaar</string>
+    <string name="MEDIA_CHECKING">Media wordt gescand, probeer later opnieuw.</string>
+    <string name="MEDIA_NOFS">Kan niet uitpakken, sdcard ondersteund bestandenssysteem niet! </string>
+    <string name="MEDIA_SHARED">Kan niet uitpakken, sdcard is gedeeld</string>
+    <string name="MEDIA_REMOVED">Voorzie een sdcard en pak uit</string>
+    <string name="MEDIA_BAD_REMOVAL">Kan niet uitpakken, sdcard wordt niet ondersteund</string>
+    <string name="MEDIA_UNKNOWN">Kan niet uitpakken, sdcard wordt niet ondersteund</string>
+    <string name="MEDIA_UNMOUNTABLE">Kan niet uitpakken, sdcard wordt niet ondersteund</string>
+    <string name="MEDIA_UNMOUNTED">Kan niet uitpakken, sdcard wordt niet ondersteund</string>
+    <string name="error_msg">Fout</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Annuleer</string>
+    <string name="dialog_title_directory_name">Naam van de Map</string>
+    <string name="summary_no_sdcard"> &lt; geen sd card -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">ONTWORPEN &amp; ONTWIKKELD DOOR </string>
+    <string name="title_translators">VERTALINGEN DOOR</string>
+    <string name="summary_rate_us">Toon ons uw ondersteuning</string>
+    <string name="contact_us">Contacteer ons</string>
+    <string name="no_matches_found">Geen overeenkomsten gevonden</string>
+
+    <string-array name="listarray">
+        <item>+ Naam van de App</item>
+        <item>+ Naam van Package</item>
+        <item>+ Versie</item>
+        <item>+ Versie Code</item>
+    </string-array>
+
+    <string name="file_name_format">Apk bestandsnaam bewaringsformaat</string>
+    <string name="name_format_type_summary">Naamgeving voor uitgepakte applicate</string>
+    <string name="title_premium">Schakel over naar Premium</string>
+    <string name="summary_go_premium">Verwijder advertenties</string>
+
+</resources>
