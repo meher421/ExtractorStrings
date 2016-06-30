@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">بحث</string>
+    <string name="acton_rate_us">تقيمك يهمنا</string>
+    <string name="action_file">ملف</string>
+    <string name="action_share">مشاركة</string>
+    <string name="str_show_system_apps">مشاهدة تطبيقات النظام</string>
+    <string name="str_show_user_apps">مشاهدة تطبيقات المستخدم</string>
+    <string name="show_all_apps_title">مشاهدة جميع التطبيقات</string>
+    <string name="settings">إعدادات</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">خانة اختيار</string>
+    <string name="options">خيارات</string>
+    <string name="icon">أيقونة</string>
+    <string name="file">ملف</string>
+    <string name="check">تحقق</string>
+    <string name="extract">استخراج</string>
+    <string name="share">مشاركة</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">مسار الحفظ</string>
+    <string name="title_rate_us">تقيم</string>
+    <string name="title_version">الإصدار</string>
+    <string name="summmay_on">يعرض جميع التطبيقات في قائمة واحدة</string>
+    <string name="summmay_off">المستخدم تثبيت ويتم تصنيف تطبيقات نظام تثبيت </string>
+    <string name="summary_file_saved_path">&lt; لا توجد بطاقة الذاكرة &gt;</string>
+    <string name="title_about">معلومات عنا</string>
+
+    <!-- messages -->
+    <string name="extract_success">استخراج إلى مسار :</string>
+    <string name="share_msg">كيف تريد مشاركة?</string>
+    <string name="extracting_msg">استخراج &#8230;</string>
+    <string name="loading_msg">تحميل التطبيقات &#8230;</string>
+    <string name="options_title_share">مشاركة</string>
+    <string name="options_title_info">معلومات</string>
+    <string name="empty_folder">مجلد فارغ</string>
+    <string name="create_directory">انشاء</string>
+    <string name="set_dir_path">تعيين41</string>
+    <string name="str_directory_exists">الدليل موجود بالفعل</string>
+    <string name="str_invalid_dir_create">لا يمكن إنشاء الدليل هنا</string>
+    <string name="str_invalid_dir_set">لا يمكن أن تحدد هذا الدليل.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">لا يمكن استخراج! بطاقة الذاكرة الرقمية المؤمنة غير قابل للكتابة</string>
+    <string name="MEDIA_CHECKING">فحص وسائل الإعلام في ظل التقدم، يرجى المحاولة مرة أخرى في وقت لاحق.</string>
+    <string name="MEDIA_NOFS">لا يمكن استخراج بطاقة الذاكرة الرقمية المؤمنة نظام ملف غير معتمد ! </string>
+    <string name="MEDIA_SHARED">لا يمكن استخراج، ويشارك بطاقة الذاكرة الرقمية المؤمنة</string>
+    <string name="MEDIA_REMOVED">الرجاء إدخال بطاقة الذاكرة الرقمية المؤمنة واستخراج</string>
+    <string name="MEDIA_BAD_REMOVAL">لا يمكن استخراج، لا يتم اعتماد بطاقة الذاكرة الرقمية المؤمنة</string>
+    <string name="MEDIA_UNKNOWN">لا يمكن استخراج، لا يتم اعتماد بطاقة الذاكرة الرقمية المؤمنة</string>
+    <string name="MEDIA_UNMOUNTABLE">لا يمكن استخراج، لا يتم اعتماد بطاقة الذاكرة الرقمية المؤمنة</string>
+    <string name="MEDIA_UNMOUNTED">لا يمكن استخراج، لا يتم اعتماد بطاقة الذاكرة الرقمية المؤمنة</string>
+    <string name="error_msg">خطأ</string>
+    <string name="str_button_ok">موافق</string>
+    <string name="str_button_cancel">إلغاء الأمر</string>
+    <string name="dialog_title_directory_name">اسم الدليل</string>
+    <string name="summary_no_sdcard"> &lt; لا توجد بطاقة الذاكرة -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">مصممة &amp; طورت بواسطة </string>
+    <string name="title_translators">Marwan AL-sidi: ترجمة من قبل</string>
+    <string name="summary_rate_us">تبين لنا دعمكم</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="no_matches_found">لم يتم العثور على تطابق</string>
+
+    <string-array name="listarray">
+        <item>+ اسم التطبيق</item>
+        <item>+ اسم حزمة</item>
+        <item>+ الإصدار</item>
+        <item>+ كود نسخة</item>
+    </string-array>
+
+    <string name="file_name_format">Apk اسم الملف حفظ صيغة</string>
+    <string name="name_format_type_summary">اصلاح التسمية تطبيق المستخرج</string>
+    <string name="title_premium">نسخة متطورة</string>
+    <string name="summary_go_premium">إزالة الإعلانات</string>
+
+</resources>
