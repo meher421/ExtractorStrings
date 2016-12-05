@@ -65,19 +65,21 @@
     <!-- new strings -->
     <string name="tile_developer">CONCEPTION &amp; DEVELOPPEMENT PAR </string>
     <string name="title_translators">TRADUCTIONS PAR</string>
-    <string name="summary_rate_us">Supportez nous</string>
+    <string name="summary_rate_us">Évaluez nous</string>
     <string name="contact_us">Contactez nous</string>
     <string name="no_matches_found">Pas de correspondances trouvées</string>
 
     <string-array name="listarray">
-        <item>+ App Name</item>
-        <item>+ Package Name</item>
-        <item>+ Version</item>
-        <item>+ Version Code</item>
+       <item>+ Nom de l\'Application</item>
+       <item>+ Nom du "Package"</item>
+       <item>+ Numéro de Version</item>
+       <item>+ Code de Version</item>
+
     </string-array>
 
     <string name="file_name_format">Format de sauvegarde des fichiers APK</string>
     <string name="name_format_type_summary">Convention de nommage des applications extraites</string>
-    <string name="title_premium">Go Premium</string>
-    <string name="summary_go_premium">Supprime annonces</string>
+    <string name="title_premium">Devenez Premium</string>
+    <string name="summary_go_premium">Supprimer les publicités</string>
+
 </resources>
