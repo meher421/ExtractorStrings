@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">खोज</string>
+    <string name="acton_rate_us">हाम्रो दर्जा मापन</string>
+    <string name="action_file">फाइल</string>
+    <string name="action_share">शेयर</string>
+    <string name="str_show_system_apps">सिस्टम अप्प्स् देखौनुस्</string>
+    <string name="str_show_user_apps">युजर अप्प्स् देखौनुस्</string>
+    <string name="show_all_apps_title">सबै अप्प्स् देखौनुस्</string>
+    <string name="settings">सेटिङ</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">जाँच बाकस</string>
+    <string name="options">विकल्पहरू</string>
+    <string name="icon">प्रतिमा</string>
+    <string name="file">फाइल</string>
+    <string name="check">चेक</string>
+    <string name="extract">निकाल्ने</string>
+    <string name="share">शेयर</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">सवेद्</string>
+    <string name="title_rate_us">दर्जा</string>
+    <string name="title_version">संस्करण</string>
+    <string name="summmay_on">एकल सूचीमा सबै अप्प्स् प्रदर्शन</string>
+    <string name="summmay_off">युजर स्थापित र सिस्टम स्थापित अप्प्स् वर्गीकृत </string>
+    <string name="summary_file_saved_path">&lt; नो एस् डि कार्ड &gt;</string>
+    <string name="title_about">हाम्रोबारे</string>
+
+    <!-- messages -->
+    <string name="extract_success">पाथमा निकालियो :</string>
+    <string name="share_msg">तपाईं कसरी शेयर गर्न चाहनुहुन्छ?</string>
+    <string name="extracting_msg">निकाल्दै &#8230;</string>
+    <string name="loading_msg">लोडिङ अप्प्स् &#8230;</string>
+    <string name="options_title_share">शेयर</string>
+    <string name="options_title_info">जानकारी</string>
+    <string name="empty_folder">खाली फोल्डर</string>
+    <string name="create_directory">सिर्जना</string>
+    <string name="set_dir_path">सेट</string>
+    <string name="str_directory_exists">फोल्डर पहिले नै अवस्थित</string>
+    <string name="str_invalid_dir_create">फोल्डर सिर्जना गर्न सकिँदैन यहाँ</string>
+    <string name="str_invalid_dir_set">यो फोल्डर सेट गर्न सकिँदैन.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">निकाल्न सक्दैन! एसडी कार्ड लेख्न योग्य छैन</string>
+    <string name="MEDIA_CHECKING">पछि फेरि प्रयास गर्नुहोस्.</string>
+    <string name="MEDIA_NOFS">निकाल्न सक्दैन, एसडी समर्थन फाइल प्रणाली ! </string>
+    <string name="MEDIA_SHARED">निकाल्नुहोस् गर्न सक्दैन, एसडी साझेदारी गरिएको छ</string>
+    <string name="MEDIA_REMOVED">कृपया एसडी हाल्नोस</string>
+    <string name="MEDIA_BAD_REMOVAL">निकाल्न सक्दैन, एसडी समर्थित छैन</string>
+    <string name="MEDIA_UNKNOWN">निकाल्न सक्दैन, एसडी समर्थित छैन</string>
+    <string name="MEDIA_UNMOUNTABLE">निकाल्न सक्दैन, एसडी समर्थित छैन</string>
+    <string name="MEDIA_UNMOUNTED">निकाल्न सक्दैन, एसडी समर्थित छैन</string>
+    <string name="error_msg">एरर</string>
+    <string name="str_button_ok">ठिक छ</string>
+    <string name="str_button_cancel">रद्द</string>
+    <string name="dialog_title_directory_name">फोल्डर नाम</string>
+    <string name="summary_no_sdcard"> &lt; एसडी कार्ड छैन -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">डिजाईन &amp; डिभेलपएद बाइ </string>
+    <string name="title_translators">अनुवाद गर्ने</string>
+    <string name="summary_rate_us">हामीलाई आफ्नो समर्थन</string>
+    <string name="contact_us">हामीलाई सम्पर्क गर्नुहोस</string>
+    <string name="no_matches_found">कुनै पनि मेल पाइएन</string>
+
+    <string-array name="listarray">
+        <item>+ एप नाम</item>
+        <item>+प्याकेज नाम</item>
+        <item>+ संस्करण</item>
+        <item>+ संस्करण कोड</item>
+    </string-array>
+
+    <string name="file_name_format">Apk फाइल नाम ढाँचा </string>
+    <string name="name_format_type_summary">निकालिएको अप्प्स् नामकरण </string>
+    <string name="title_premium">प्रिमियम जानुस्</string>
+    <string name="summary_go_premium">विज्ञापनमा हटाउँछ</string>
+
+</resources>
