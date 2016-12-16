@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Ieškoti</string>
+    <string name="acton_rate_us">Įvertinkite mus</string>
+    <string name="action_file">failas</string>
+    <string name="action_share">dalintis</string>
+    <string name="str_show_system_apps">Rodyti sistemos programėles</string>
+    <string name="str_show_user_apps">Rodyti vartotojo programėles</string>
+    <string name="show_all_apps_title">Rodyti visas programėles</string>
+    <string name="settings">Nustatymai</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">langelis</string>
+    <string name="options">nustatymai</string>
+    <string name="icon">piktograma</string>
+    <string name="file">failas</string>
+    <string name="check">Žymėti</string>
+    <string name="extract">Ištraukti</string>
+    <string name="share">Dalintis</string>
+    <string name="select_all">Pasirinkti viską</string>
+
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Išsaugojimo vieta</string>
+    <string name="title_rate_us">Įvertinkite</string>
+    <string name="title_version">Versija</string>
+    <string name="summmay_on">Rodo visas programėles viename sąraše</string>
+    <string name="summmay_off">Vartotojo ir Sistemos įdiegtos programėlės yra suskirstytos</string>
+    <string name="summary_file_saved_path">&lt; nėra SD kortelės &gt;</string>
+    <string name="title_about">Apie mus</string>
+
+    <!-- messages -->
+    <string name="extract_success">Ištraukta į :</string>
+    <string name="share_msg">Kokiu būdu norėtumėte dalintis?</string>
+    <string name="extracting_msg">Ištraukiama &#8230;</string>
+    <string name="loading_msg">Įkeliamos programėlės&#8230;</string>
+    <string name="options_title_share">dalintis</string>
+    <string name="options_title_info">informacija</string>
+    <string name="empty_folder">Tuščias aplankas</string>
+    <string name="create_directory">Sukurti</string>
+    <string name="set_dir_path">Atlikta</string>
+    <string name="str_directory_exists">Katal-ogas jau egzistuoja</string>
+    <string name="str_invalid_dir_create">Katalogas čia negali būti sukurtas</string>
+    <string name="str_invalid_dir_set">Neįmanoma nustatyti šio katalogo.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Ištraukti nepavyko ! SD kortelė nėra įrašoma</string>
+    <string name="MEDIA_CHECKING">Šiuo metu naskaitomi medijos failai, prašome bandyti vėliau.</string>
+    <string name="MEDIA_NOFS">Nepavyko ištraukti, SD kortelė nepalaiko sistemos failų !</string>
+    <string name="MEDIA_SHARED">Nepavyko ištraukti, SD kortelė yra pasidalinama</string>
+    <string name="MEDIA_REMOVED">Prašome įdėti SD kortelę ir bandyti ištraukti</string>
+    <string name="MEDIA_BAD_REMOVAL">Nepavyko ištraukti, nepalaikoma SD kortelė</string>
+    <string name="MEDIA_UNKNOWN">Nepavyko ištraukti, nepalaikoma SD kortelė</string>
+    <string name="MEDIA_UNMOUNTABLE">Nepavyko ištraukti, nepalaikoma SD kortelė</string>
+    <string name="MEDIA_UNMOUNTED">Nepavyko ištraukti, nepalaikoma SD kortelė</string>
+    <string name="error_msg">Klaida</string>
+    <string name="str_button_ok">Gerai</string>
+    <string name="str_button_cancel">Atšaukti</string>
+    <string name="dialog_title_directory_name">Katalogo pavadinimas</string>
+    <string name="summary_no_sdcard"> &lt; nėra SD kortelės -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">SUPROJEKTAVO IR SUKURĖ </string>
+    <string name="title_translators">PROGRAMĖLĘ VERTĖ</string>
+    <string name="summary_rate_us">Parodykite mums savo paramą</string>
+    <string name="contact_us">Susisiekite su mumis</string>
+    <string name="no_matches_found">Nerasta atitikmenų</string>
+
+    <string-array name="listarray">
+        <item>+ Programėlės pavadinimas</item>
+        <item>+ Komplekto pavadinimas</item>
+        <item>+ Versija</item>
+        <item>+ Versijos kodas</item>
+    </string-array>
+
+    <string name="file_name_format">Apk failų įrašymo formatas</string>
+    <string name="name_format_type_summary">Ištrauktų programėlių pavadinimo formulavimas</string>
+    <string name="title_premium">Tapti Premium</string>
+    <string name="summary_go_premium">Pašalina reklamas</string>
+
+</resources>

@@ -22,6 +22,7 @@
     <string name="check">Check</string>
     <string name="extract">Ekstrak</string>
     <string name="share">Bagikan</string>
+    <string name="select_all">Pilih Semua</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Lokasi penyimpanan</string>

@@ -22,6 +22,7 @@
     <string name="check">확인</string>
     <string name="extract">추출</string>
     <string name="share">공유</string>
+    <string name="select_all">모두 선택</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">저장 경로</string>

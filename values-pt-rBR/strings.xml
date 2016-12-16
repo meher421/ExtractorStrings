@@ -22,6 +22,8 @@
     <string name="check">selecionado</string>
     <string name="extract">Extrair</string>
     <string name="share">Compartilhar</string>
+    <string name="select_all">Selecionar tudo</string>
+
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Salvar em</string>
@@ -69,7 +71,7 @@
     <string name="contact_us">Contate-nos</string>
     <string name="no_matches_found">Não foram encontrados jogos</string>
 
-    <string-array name="listarray">
+    <string-array name="listarray">4
         <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>

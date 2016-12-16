@@ -22,6 +22,7 @@
     <string name="check">Sprawdź</string>
     <string name="extract">Eksportuj</string>
     <string name="share">udostępnij</string>
+    <string name="select_all">Zaznacz wszystko</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Folder zapisu</string>
@@ -30,7 +31,6 @@
     <string name="summmay_on">Pokazuje wszystkie aplikacje w jednej liście</string>
     <string name="summmay_off">Aplikacje zainstalowane przez użytkownika oraz systemowe będą podzielone</string>
     <string name="summary_file_saved_path">&lt; brak karty SD &gt;</string>
-    <!-- < no sdcard > -->
     <string name="title_about">O nas</string>
 
     <!-- messages -->

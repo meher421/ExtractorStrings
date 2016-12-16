@@ -22,6 +22,7 @@
     <string name="check">Controleer</string> <!-- I translated check as in the verb "to check"-->
     <string name="extract">Uitpakken</string>
     <string name="share">Deel</string>
+    <string name="select_all">Selecteer alles</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Bewaard pad</string>

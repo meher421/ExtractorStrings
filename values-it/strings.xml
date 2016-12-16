@@ -22,6 +22,7 @@
     <string name="check">Controllare</string>
     <string name="extract">estratto</string>
     <string name="share">quota</string>
+    <string name="select_all">Seleziona tutto</string>
 
     <!-- Settings Screen Strings -->
     <string name="title_file_saved_path">Percorso salvataggio</string>

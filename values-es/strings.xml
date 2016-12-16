@@ -22,6 +22,7 @@
     <string name="check">Revisar</string>
     <string name="extract">Extraer</string>
     <string name="share">Compartir</string>
+    <string name="select_all">Seleccionar todo</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Ruta de archivos</string>

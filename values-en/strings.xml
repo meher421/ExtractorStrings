@@ -22,6 +22,7 @@
     <string name="check">Check</string>
     <string name="extract">Extract</string>
     <string name="share">Share</string>
+    <string name="select_all">Select All</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Saved path</string>

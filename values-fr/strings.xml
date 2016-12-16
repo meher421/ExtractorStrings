@@ -22,6 +22,7 @@
     <string name="check">Tester</string>
     <string name="extract">Extraire</string>
     <string name="share">Partager</string>
+    <string name="select_all">Sélectionner tout</string>
 
     **<!-- Settings screen Strings -->
     <string name="title_file_saved_path">Répertoire de sauvegarde</string>

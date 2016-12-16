@@ -22,6 +22,7 @@
     <string name="check">İşaretle</string>
     <string name="extract">Çıkar</string>
     <string name="share">Paylaş</string>
+    <string name="select_all">Hepsini seç</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Kayıt yeri</string>

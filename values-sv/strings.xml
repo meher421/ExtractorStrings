@@ -22,6 +22,7 @@
     <string name="check">Kryssa</string>
     <string name="extract">Extrahera</string>
     <string name="share">Dela</string>
+    <string name="select_all">Välj alla</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Mappen där filerna sparas:</string>
