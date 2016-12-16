@@ -22,6 +22,7 @@
     <string name="check">Check</string>
     <string name="extract">Extract</string>
     <string name="share">Share</string>
+    <string name="select_all">Select All</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Saved path</string>
@@ -31,6 +32,7 @@
     <string name="summmay_off">User installed and System installed applications are categorized </string>
     <string name="summary_file_saved_path">&lt; no sdcard &gt;</string>
     <string name="title_about">About us</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Extracted to path :</string>
@@ -45,6 +47,7 @@
     <string name="str_directory_exists">Directory already exists</string>
     <string name="str_invalid_dir_create">Directory cannot be created here</string>
     <string name="str_invalid_dir_set">Cannot set this directory.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable</string>
