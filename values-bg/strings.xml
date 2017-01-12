@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Извличане на APK файлове</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Търсене</string>
+    <string name="acton_rate_us">Оценете ни</string>
+    <string name="action_file">файл</string>
+    <string name="action_share">сподели</string>
+    <string name="str_show_system_apps">Покажи системните приложения</string>
+    <string name="str_show_user_apps">Покажи потребителските приложения</string>
+    <string name="show_all_apps_title">Покажи всички приложения</string>
+    <string name="settings">Настройки</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">квадратче</string>
+    <string name="options">опции</string>
+    <string name="icon">икона</string>
+    <string name="file">файл</string>
+    <string name="check">Отметни</string>
+    <string name="extract">Извлечи</string>
+    <string name="share">Сподели</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Папка за запис</string>
+    <string name="title_rate_us">Оценете ни</string>
+    <string name="title_version">Версия</string>
+    <string name="summmay_on">Показва всички приложения в един списък</string>
+    <string name="summmay_off">Потребителските и системните приложения са категоризирани</string>
+    <string name="summary_file_saved_path">&lt; няма SD карта &gt;</string>
+    <string name="title_about">За нас</string>
+
+    <!-- messages -->
+    <string name="extract_success">Извлечено в папка :</string>
+    <string name="share_msg">Как искате да споделите?</string>
+    <string name="extracting_msg">Извличане &#8230;</string>
+    <string name="loading_msg">Зареждане на приложения &#8230;</string>
+    <string name="options_title_share">сподели</string>
+    <string name="options_title_info">инфо</string>
+    <string name="empty_folder">Празна Папка</string>
+    <string name="create_directory">Създай</string>
+    <string name="set_dir_path">Задай</string>
+    <string name="str_directory_exists">Папка със същото име вече съществува.</string>
+    <string name="str_invalid_dir_create">Тук не може да се създаде папка.</string>
+    <string name="str_invalid_dir_set">Тази папка не може да се зададе.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Не може да се извлече! SD картата не позволява записване.</string>
+    <string name="MEDIA_CHECKING">В момента се сканира SD картата, моля опитайте по-късно.</string>
+    <string name="MEDIA_NOFS">Не може да се извлече, не се поддържа файловата система на SD картата!</string>
+    <string name="MEDIA_SHARED">Не може да се извлече, SD картата е споделена</string>
+    <string name="MEDIA_REMOVED">Моля вкарайте SD карта и извлечете</string>
+    <string name="MEDIA_BAD_REMOVAL">Не може да се извлече, SD картата не се поддържа</string>
+    <string name="MEDIA_UNKNOWN">Не може да се извлече, SD картата не се поддържа</string>
+    <string name="MEDIA_UNMOUNTABLE">Не може да се извлече, SD картата не се поддържа</string>
+    <string name="MEDIA_UNMOUNTED">Не може да се извлече, SD картата не се поддържа</string>
+    <string name="error_msg">Грешка</string>
+    <string name="str_button_ok">ОК</string>
+    <string name="str_button_cancel">Отмени</string>
+    <string name="dialog_title_directory_name">Име на папка</string>
+    <string name="summary_no_sdcard"> &lt; няма SD карта -&gt; </string>
+
+    <!-- new strings -->
+    <string name="tile_developer">ПРОЕКТИРАНО И РАЗРАБОТЕНО ОТ </string>
+    <string name="title_translators">ПРЕВОДИ ОТ</string>
+    <string name="summary_rate_us">Покажете ни подкрепата си</string>
+    <string name="contact_us">Свържете се с нас</string>
+    <string name="no_matches_found">Няма намерени съвпадения</string>
+
+    <string-array name="listarray">
+        <item>+ Име на приложение</item>
+        <item>+ Име на пакет</item>
+        <item>+ Версия</item>
+        <item>+ Код на версията</item>
+    </string-array>
+
+    <string name="file_name_format">Формат на името на APK файла</string>
+    <string name="name_format_type_summary">Начин на наименуване на извлечения APK файл</string>
+    <string name="title_premium">Преминете към Премиум</string>
+    <string name="summary_go_premium">Премахва рекламите</string>
+
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk 提取</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">搜索</string>
+    <string name="acton_rate_us">反馈建议</string>
+    <string name="action_file">文件</string>
+    <string name="action_share">分享</string>
+    <string name="str_show_system_apps">仅显示系统应用</string>
+    <string name="str_show_user_apps">仅显示用户应用</string>
+    <string name="show_all_apps_title">显示所有应用</string>
+    <string name="settings">设置</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">复选框</string>
+    <string name="options">选项</string>
+    <string name="icon">图标</string>
+    <string name="file">文件</string>
+    <string name="check">勾选</string>
+    <string name="extract">提取</string>
+    <string name="share">分享</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">保存路径</string>
+    <string name="title_rate_us">反馈</string>
+    <string name="title_version">版本</string>
+    <string name="summmay_on">展示所有应用列表</string>
+    <string name="summmay_off">用户安装和系统自带应用分开显示</string>
+    <string name="summary_file_saved_path">\u003c 无SD卡 \u003e</string>
+    <!-- < no sdcard > -->
+    <string name="title_about">关于我们</string>
+
+    <!-- messages -->
+    <string name="extract_success">提取路径:</string>
+    <string name="share_msg">分享途径</string>
+    <string name="extracting_msg">提取中 …</string>
+    <string name="loading_msg">加载应用中 …</string>
+    <string name="options_title_share">分享</string>
+    <string name="options_title_info">应用详情</string>
+    <string name="empty_folder">空文件夹</string>
+    <string name="create_directory">创建</string>
+    <string name="set_dir_path">设定</string>
+    <string name="str_directory_exists">文件夹已存在</string>
+    <string name="str_invalid_dir_create">无法在这里创建文件夹</string>
+    <string name="str_invalid_dir_set">无法保存此历史.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">提取失败，没有SD卡读写权限</string>
+    <string name="MEDIA_CHECKING">多媒体正在扫描中</string>
+    <string name="MEDIA_NOFS">提取失败</string>
+    <string name="MEDIA_SHARED">提取失败</string>
+    <string name="MEDIA_REMOVED">请插入SD卡后再提取</string>
+    <string name="MEDIA_BAD_REMOVAL">提取失败</string>
+    <string name="MEDIA_UNKNOWN">提取失败</string>
+    <string name="MEDIA_UNMOUNTABLE">提取失败</string>
+    <string name="MEDIA_UNMOUNTED">提取失败</string>
+    <string name="error_msg">错误</string>
+    <string name="str_button_ok">确定</string>
+    <string name="str_button_cancel">取消</string>
+    <string name="dialog_title_directory_name">文件夹名称</string>
+    <string name="summary_no_sdcard">\u003c 无SD卡 -\u003e</string>
+
+    <!-- new strings -->
+    <string name="tile_developer">设计 &amp; 开发 </string>
+    <string name="title_translators">翻译</string>
+    <string name="summary_rate_us">向我们反馈和建议</string>
+    <string name="contact_us">联系我们</string>
+    <string name="no_matches_found">找不到匹配项</string>
+
+    <string-array name="listarray">
+        <item>+ 应用名</item>
+        <item>+ 包名</item>
+        <item>+ 版本号</item>
+        <item>+ 版本码</item>
+    </string-array>
+
+    <string name="file_name_format">应用保存格式</string>
+    <string name="name_format_type_summary">提取应用的命名规则</string>
+    <string name="title_premium">高级选项</string>
+    <string name="summary_go_premium">删除广告</string>
+
+</resources>
