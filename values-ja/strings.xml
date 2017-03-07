@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk抽出</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">検索</string>
+    <string name="acton_rate_us">Rate us</string>
+    <string name="action_file">ファイル</string>
+    <string name="action_share">共有</string>
+    <string name="str_show_system_apps">システムアプリを表示</string>
+    <string name="str_show_user_apps">ユーザーアプリを表示</string>
+    <string name="show_all_apps_title">すべてのアプリを表示</string>
+    <string name="settings">設定</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">checkbox</string>
+    <string name="options">options</string>
+    <string name="icon">icon</string>
+    <string name="file">file</string>
+    <string name="check">Check</string>
+    <string name="extract">Extract</string>
+    <string name="share">Share</string>
+    <string name="select_all">Select All</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">保存先</string>
+    <string name="title_rate_us">Rate</string>
+    <string name="title_version">バージョン</string>
+    <string name="summmay_on">Displays all applications in a single list</string>
+    <string name="summmay_off">User installed and System installed applications are categorized</string>
+    <string name="summary_file_saved_path">\u003c no sdcard \u003e</string>
+    <!-- < no sdcard > -->
+    <string name="title_about">私達について</string>
+
+    <!-- messages -->
+    <string name="extract_success">抽出が完了しました！ :</string>
+    <string name="share_msg">どのようにして共有しますか？</string>
+    <string name="extracting_msg">抽出中…</string>
+    <string name="loading_msg">インストールされているアプリを読み込み中…</string>
+    <string name="options_title_share">共有</string>
+    <string name="options_title_info">情報</string>
+    <string name="empty_folder">空のフォルダー</string>
+    <string name="create_directory">作成</string>
+    <string name="set_dir_path">セット</string>
+    <string name="str_directory_exists">そのディレクトリーはすでに存在します。</string>
+    <string name="str_invalid_dir_create">ディレクトリーを作成できません。</string>
+    <string name="str_invalid_dir_set">そのディレクトリーにセットすることはできません。</string>
