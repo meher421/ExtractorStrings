@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">APK 抽出</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">検索</string>
+    <string name="acton_rate_us">Rate us</string>
+    <string name="action_file">ファイル</string>
+    <string name="action_share">共有</string>
+    <string name="str_show_system_apps">システムアプリを表示</string>
+    <string name="str_show_user_apps">ユーザーアプリを表示</string>
+    <string name="show_all_apps_title">すべてのアプリを表示</string>
+    <string name="settings">設定</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">チェックボックス</string>
+    <string name="options">オプション</string>
+    <string name="icon">アイコン</string>
+    <string name="file">ファイル</string>
+    <string name="check">チェック</string>
+    <string name="extract">抽出</string>
+    <string name="share">共有</string>
+    <string name="select_all">全て選択</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">保存先</string>
+    <string name="title_rate_us">Rate</string>
+    <string name="title_version">バージョン</string>
+    <string name="summmay_on">すべてのアプリケーションを1つのリストに表示する</string>
+    <string name="summmay_off">ユーザーインストール済みおよびシステムインストール済みアプリケーションが分類されます。</string>
+    <string name="summary_file_saved_path">\u003c Sdcardが挿入されていません \u003e</string>
+    <!-- < no sdcard > -->
+    <string name="title_about">私達について</string>
+
+    <!-- messages -->
+    <string name="extract_success">抽出が完了しました！ :</string>
+    <string name="share_msg">どのようにして共有しますか？</string>
+    <string name="extracting_msg">抽出中…</string>
+    <string name="loading_msg">インストールされているアプリを読み込み中…</string>
+    <string name="options_title_share">共有</string>
+    <string name="options_title_info">情報</string>
+    <string name="empty_folder">空のフォルダー</string>
+    <string name="create_directory">作成</string>
+    <string name="set_dir_path">セット</string>
+    <string name="str_directory_exists">そのディレクトリーはすでに存在します。</string>
+    <string name="str_invalid_dir_create">ディレクトリーを作成できません。</string>
+    <string name="str_invalid_dir_set">そのディレクトリーにセットすることはできません。</string>
+    
+<!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Sdcardへの書き込み許可が無い為、抽出できませんでした</string>
+    <string name="MEDIA_CHECKING">バックプロセスでチェック中</string>
+    <string name="MEDIA_NOFS">抽出できませんでした</string>
+    <string name="MEDIA_SHARED">抽出できませんでした</string>
+    <string name="MEDIA_REMOVED">Sdcardを挿入して抽出してください</string>
+    <string name="MEDIA_BAD_REMOVAL">抽出できませんでした</string>
+    <string name="MEDIA_UNKNOWN">抽出できませんでした</string>
+    <string name="MEDIA_UNMOUNTABLE">抽出できませんでした</string>
+    <string name="MEDIA_UNMOUNTED">抽出できませんでした</string>
+    <string name="error_msg">エラー</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">キャンセル</string>
+    <string name="dialog_title_directory_name">ディレクトリー名</string>
+    <string name="summary_no_sdcard">\u003c Sdcardがありません -\u003e</string>
+
+    <!-- new strings -->
+    <string name="tile_developer">デザイナー &amp; 開発者</string>
+    <string name="title_translators">翻訳者</string>
+    <string name="summary_rate_us">サポート</string>
+    <string name="contact_us">お問い合わせ</string>
+    <string name="no_matches_found">一致するものが見つかりませんでした。</string>
+
+    <string-array name="listarray">
+        <item>+ アプリ名</item>
+        <item>+ パッケージ名</item>
+        <item>+ バージョン</item>
+        <item>+ バージョンコード</item>
+    </string-array>
+
+    <string name="file_name_format">Apkファイル名保存形式</string>
+    <string name="name_format_type_summary">抽出したアプリケーションの命名規則</string>
+    <string name="title_premium">プレミアム版にする</string>
+    <string name="summary_go_premium">広告を削除する</string>
+
+</resources>
