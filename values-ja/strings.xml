@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk抽出</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">検索</string>
+    <string name="acton_rate_us">Rate us</string>
+    <string name="action_file">file</string>
+    <string name="action_share">share</string>
+    <string name="str_show_system_apps">Show System Apps</string>
+    <string name="str_show_user_apps">Show User Apps</string>
+    <string name="show_all_apps_title">Show all applications</string>
+    <string name="settings">Settings</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">checkbox</string>
+    <string name="options">options</string>
+    <string name="icon">icon</string>
+    <string name="file">file</string>
+    <string name="check">Check</string>
+    <string name="extract">Extract</string>
+    <string name="share">Share</string>
+    <string name="select_all">Select All</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Saved path</string>
+    <string name="title_rate_us">Rate</string>
+    <string name="title_version">Version</string>
+    <string name="summmay_on">Displays all applications in a single list</string>
+    <string name="summmay_off">User installed and System installed applications are categorized</string>
+    <string name="summary_file_saved_path">\u003c no sdcard \u003e</string>
+    <!-- < no sdcard > -->
+    <string name="title_about">About us</string>
+
+    <!-- messages -->
+    <string name="extract_success">Extracted to path :</string>
+    <string name="share_msg">How do you want to share?</string>
+    <string name="extracting_msg">Extracting …</string>
+    <string name="loading_msg">Loading applications …</string>
+    <string name="options_title_share">share</string>
+    <string name="options_title_info">info</string>
+    <string name="empty_folder">Empty Folder</string>
+    <string name="create_directory">Create</string>
+    <string name="set_dir_path">Set</string>
+    <string name="str_directory_exists">Directory already exists</string>
+    <string name="str_invalid_dir_create">Directory cannot be created here</string>
+    <string name="str_invalid_dir_set">Cannot set this directory.</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable</string>
+    <string name="MEDIA_CHECKING">Media scanning under progress</string>
+    <string name="MEDIA_NOFS">Cannot extract</string>
+    <string name="MEDIA_SHARED">Cannot Extract</string>
+    <string name="MEDIA_REMOVED">Please insert sdcard and extract</string>
+    <string name="MEDIA_BAD_REMOVAL">Cannot extract</string>
+    <string name="MEDIA_UNKNOWN">Cannot extract</string>
+    <string name="MEDIA_UNMOUNTABLE">Cannot extract</string>
+    <string name="MEDIA_UNMOUNTED">Cannot extract</string>
+    <string name="error_msg">Error</string>
+    <string name="str_button_ok">OK</string>
+    <string name="str_button_cancel">Cancel</string>
+    <string name="dialog_title_directory_name">Directory Name</string>
+    <string name="summary_no_sdcard">\u003c no sd card -\u003e</string>
+
+    <!-- new strings -->
+    <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
+    <string name="title_translators">TRANSLATIONS BY</string>
+    <string name="summary_rate_us">Show us your support</string>
+    <string name="contact_us">Contact us</string>
+    <string name="no_matches_found">No matches found</string>
+
+    <string-array name="listarray">
+        <item>+ App Name</item>
+        <item>+ Package Name</item>
+        <item>+ Version</item>
+        <item>+ Version Code</item>
+    </string-array>
+
+    <string name="file_name_format">Apk file name saving format</string>
+    <string name="name_format_type_summary">Extracted application naming convention</string>
+    <string name="title_premium">Go Premium</string>
+    <string name="summary_go_premium">Removes advertisements</string>
+
+</resources>
