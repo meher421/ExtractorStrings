@@ -28,9 +28,9 @@
     <string name="title_file_saved_path">保存先</string>
     <string name="title_rate_us">Rate</string>
     <string name="title_version">バージョン</string>
-    <string name="summmay_on">Displays all applications in a single list</string>
-    <string name="summmay_off">User installed and System installed applications are categorized</string>
-    <string name="summary_file_saved_path">\u003c no sdcard \u003e</string>
+    <string name="summmay_on">すべてのアプリケーションを1つのリストに表示する</string>
+    <string name="summmay_off">ユーザーインストール済みおよびシステムインストール済みアプリケーションが分類されます。</string>
+    <string name="summary_file_saved_path">\u003c Sdcardが挿入されていません \u003e</string>
     <!-- < no sdcard > -->
     <string name="title_about">私達について</string>
 
@@ -49,11 +49,11 @@
     <string name="str_invalid_dir_set">そのディレクトリーにセットすることはできません。</string>
     
 <!-- error messages -->
-    <string name="MEDIA_MOUNTED_READ_ONLY">sdcardへの書き込み許可が無い為、抽出できませんでした</string>
+    <string name="MEDIA_MOUNTED_READ_ONLY">Sdcardへの書き込み許可が無い為、抽出できませんでした</string>
     <string name="MEDIA_CHECKING">バックプロセスでチェック中</string>
     <string name="MEDIA_NOFS">抽出できませんでした</string>
     <string name="MEDIA_SHARED">抽出できませんでした</string>
-    <string name="MEDIA_REMOVED">Please insert sdcard and extract</string>
+    <string name="MEDIA_REMOVED">Sdcardを挿入して抽出してください</string>
     <string name="MEDIA_BAD_REMOVAL">抽出できませんでした</string>
     <string name="MEDIA_UNKNOWN">抽出できませんでした</string>
     <string name="MEDIA_UNMOUNTABLE">抽出できませんでした</string>
@@ -62,14 +62,14 @@
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">キャンセル</string>
     <string name="dialog_title_directory_name">ディレクトリー名</string>
-    <string name="summary_no_sdcard">\u003c sdcardがありません -\u003e</string>
+    <string name="summary_no_sdcard">\u003c Sdcardがありません -\u003e</string>
 
     <!-- new strings -->
-    <string name="tile_developer">デザイン &amp; 開発者</string>
+    <string name="tile_developer">デザイナー &amp; 開発者</string>
     <string name="title_translators">翻訳者</string>
     <string name="summary_rate_us">サポート</string>
-    <string name="contact_us">Contact us</string>
-    <string name="no_matches_found">No matches found</string>
+    <string name="contact_us">お問い合わせ</string>
+    <string name="no_matches_found">一致するものが見つかりませんでした。</string>
 
     <string-array name="listarray">
         <item>+ アプリ名</item>
@@ -78,8 +78,8 @@
         <item>+ バージョンコード</item>
     </string-array>
 
-    <string name="file_name_format">Apk file name saving format</string>
-    <string name="name_format_type_summary">Extracted application naming convention</string>
+    <string name="file_name_format">Apkファイル名保存形式</string>
+    <string name="name_format_type_summary">抽出したアプリケーションの命名規則</string>
     <string name="title_premium">プレミアム版にする</string>
     <string name="summary_go_premium">広告を削除する</string>
 
