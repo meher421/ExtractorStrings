@@ -22,7 +22,6 @@
     <string name="check">Revisar</string>
     <string name="extract">Extraer</string>
     <string name="share">Compartir</string>
-    <string name="select_all">Seleccionar todo</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Ruta de archivos</string>
@@ -31,8 +30,8 @@
     <string name="summmay_on">Mostrar todas las aplicaciones en una sola lista</string>
     <string name="summmay_off">Categorizar las aplicaciones descargadas y las del sistema</string>
     <string name="summary_file_saved_path">&lt; no hay tarjeta de memoria &gt;</string>
-    <!-- < no sdcard > -->
     <string name="title_about">Acerca de</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Extraido en la carpeta :</string>
@@ -47,6 +46,7 @@
     <string name="str_directory_exists">La carpeta ya existe</string>
     <string name="str_invalid_dir_create">La carpeta no se puede crear aquí</string>
     <string name="str_invalid_dir_set">No se puede crear la carpeta</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">No se puede extraer, memoria protegida.</string>
@@ -67,6 +67,7 @@
     <!-- new strings -->
     <string name="tile_developer">DISEÑADO &amp; DESARROLLADO POR </string>
     <string name="title_translators">TRADUCCIONES POR</string>
+    <string name="icon_credits">Icono de créditos</string>
     <string name="summary_rate_us">Ayúdanos a mejorar</string>
     <string name="contact_us">Contacto</string>
     <string name="no_matches_found">No matches found</string>
@@ -82,5 +83,9 @@
     <string name="name_format_type_summary">Formato del nombre de la aplicación extraída</string>
     <string name="title_premium">Cambiar a Premium</string>
     <string name="summary_go_premium">Elimina publicidad</string>
+    <string name="select_all">Seleccionar todo</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

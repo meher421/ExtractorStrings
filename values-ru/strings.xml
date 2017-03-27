@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <!-- global messages -->
     <string name="app_name">Apk Extractor</string>
-
 
     <!-- Menu Strings and messages -->
     <string name="action_search">Поиск</string>
@@ -14,7 +14,6 @@
     <string name="show_all_apps_title">Показать все приложения</string>
     <string name="settings">Настройки</string>
 
-
     <!-- menu icon text -->
     <string name="checkbox">Клетка</string>
     <string name="options">Опции</string>
@@ -23,10 +22,6 @@
     <string name="check">Проверить</string>
     <string name="extract">Извлечь</string>
     <string name="share">Отправить</string>
-    <string name="select_all">Выбрать все</string>
-
-
-
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Сохранить в</string>
@@ -51,7 +46,7 @@
     <string name="str_directory_exists">Директория уже существует</string>
     <string name="str_invalid_dir_create">Директория не может быть создана</string>
     <string name="str_invalid_dir_set">Невозможно установить директорию</string>
-
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_BAD_REMOVAL">Невозможно извлечь, не поддерживается карта памяти</string>
@@ -69,14 +64,13 @@
     <string name="dialog_title_directory_name">Наименование директории</string>
     <string name="summary_no_sdcard">&lt; отсутствует карта памяти -></string>
 
-
     <!-- new strings -->
     <string name="tile_developer">ДИЗАЙН &amp; РАЗРАБОТКА</string>
     <string name="title_translators">ПЕРЕВЕЛИ</string>
+    <string name="icon_credits">значок Кредиты</string>
     <string name="summary_rate_us">Поддержать</string>
     <string name="contact_us">Контакты</string>
     <string name="no_matches_found">Совпадений не найдено</string>
-
 
     <string-array name="listarray">
         <item>+ Имя приложения</item>
@@ -85,11 +79,13 @@
         <item>+ Версия API</item>
     </string-array>
 
-
     <string name="file_name_format">Формат сохранения приложения</string>
     <string name="name_format_type_summary">Формат извлечения приложения</string>
     <string name="title_premium">Получить ПРЕМИУМ версию</string>
     <string name="summary_go_premium">Удалить рекламу</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
 
 
 </resources>

@@ -22,7 +22,6 @@
     <string name="check">Check</string>
     <string name="extract">Extract</string>
     <string name="share">Share</string>
-    <string name="select_all">Select All</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Saved path</string>
@@ -68,6 +67,7 @@
     <!-- new strings -->
     <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
     <string name="title_translators">TRANSLATIONS BY</string>
+    <string name="icon_credits">Icon Credits</string>
     <string name="summary_rate_us">Show us your support</string>
     <string name="contact_us">Contact us</string>
     <string name="no_matches_found">No matches found</string>
@@ -83,5 +83,9 @@
     <string name="name_format_type_summary">Extracted application naming convention</string>
     <string name="title_premium">Go Premium</string>
     <string name="summary_go_premium">Removes advertisements</string>
+    <string name="select_all">Select All</string>    
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

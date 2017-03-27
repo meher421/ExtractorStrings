@@ -65,6 +65,7 @@
     <!-- new strings -->
     <string name="tile_developer">ПРОЕКТИРАНО И РАЗРАБОТЕНО ОТ </string>
     <string name="title_translators">ПРЕВОДИ ОТ</string>
+    <string name="icon_credits">иконата кредити</string>
     <string name="summary_rate_us">Покажете ни подкрепата си</string>
     <string name="contact_us">Свържете се с нас</string>
     <string name="no_matches_found">Няма намерени съвпадения</string>
@@ -80,5 +81,7 @@
     <string name="name_format_type_summary">Начин на наименуване на извлечения APK файл</string>
     <string name="title_premium">Преминете към Премиум</string>
     <string name="summary_go_premium">Премахва рекламите</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
 
 </resources>

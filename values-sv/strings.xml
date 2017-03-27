@@ -22,7 +22,6 @@
     <string name="check">Kryssa</string>
     <string name="extract">Extrahera</string>
     <string name="share">Dela</string>
-    <string name="select_all">Välj alla</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Mappen där filerna sparas:</string>
@@ -31,8 +30,8 @@
     <string name="summmay_on">Visar alla applikationer i en enda lista</string>
     <string name="summmay_off">Visar användar installerade och system installerade applikationer skilt</string>
     <string name="summary_file_saved_path">&lt; Inget sd-kort &gt;</string>
-    <!-- < no sdcard > -->
     <string name="title_about">Om oss</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Extraherad till mappen:</string>
@@ -47,6 +46,7 @@
     <string name="str_directory_exists">Mappen finns redan</string>
     <string name="str_invalid_dir_create">Mappen kan inte skapas här</string>
     <string name="str_invalid_dir_set">Kan inte välja den här mappen.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Kan inte extrahera! Kan inte skriva på sd-kortet</string>
@@ -67,6 +67,7 @@
     <!-- new strings -->
     <string name="tile_developer">DESIGNAD &amp; UTVECKLAD AV </string>
     <string name="title_translators">ÖVERSÄTTNINGAR AV</string>
+    <string name="icon_credits">ikon Credits</string>
     <string name="summary_rate_us">Visa oss ditt stöd</string>
     <string name="contact_us">Kontakta oss</string>
     <string name="no_matches_found">Inga matchningar funna</string>
@@ -82,5 +83,9 @@
     <string name="name_format_type_summary">Format på extraherade apparnas namn</string>
     <string name="title_premium">Bli premium</string>
     <string name="summary_go_premium">Tar bort reklamerna</string>
+    <string name="select_all">Välj alla</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

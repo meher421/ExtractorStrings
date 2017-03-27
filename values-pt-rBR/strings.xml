@@ -22,8 +22,6 @@
     <string name="check">selecionado</string>
     <string name="extract">Extrair</string>
     <string name="share">Compartilhar</string>
-    <string name="select_all">Selecionar tudo</string>
-
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Salvar em</string>
@@ -33,6 +31,7 @@
     <string name="summmay_off">Filtrar aplicativos por categoria </string>
     <string name="summary_file_saved_path">&lt; sem cartão de memória &gt;</string>
     <string name="title_about">Sobre Nós</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Extraído para a pasta :</string>
@@ -47,6 +46,7 @@
     <string name="str_directory_exists">Pasta já existe</string>
     <string name="str_invalid_dir_create">Diretório inválido</string>
     <string name="str_invalid_dir_set">Não foi possível definir a pasta.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Impossível extrair ! Cartão SD protegido contra gravação</string>
@@ -67,11 +67,12 @@
     <!-- new strings -->
     <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
     <string name="title_translators">TRANSLATIONS BY</string>
+    <string name="icon_credits">Ícone Créditos</string>
     <string name="summary_rate_us">Mostre-nos seu suporte</string>
     <string name="contact_us">Contate-nos</string>
     <string name="no_matches_found">Não foram encontrados jogos</string>
 
-    <string-array name="listarray">4
+    <string-array name="listarray">
         <item>+ App Name</item>
         <item>+ Package Name</item>
         <item>+ Version</item>
@@ -82,5 +83,9 @@
     <string name="name_format_type_summary">Tipo de nome do aplicativo extraído</string>
     <string name="title_premium">Torne-se Premium</string>
     <string name="summary_go_premium">Remover Propagangas</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

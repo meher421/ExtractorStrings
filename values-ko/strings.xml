@@ -22,7 +22,6 @@
     <string name="check">확인</string>
     <string name="extract">추출</string>
     <string name="share">공유</string>
-    <string name="select_all">모두 선택</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">저장 경로</string>
@@ -32,6 +31,7 @@
     <string name="summmay_off">유저 앱과 시스템 앱을 분류합니다</string>
     <string name="summary_file_saved_path">&lt; SD카드가 없습니다 &gt;</string>
     <string name="title_about">개발자 및 도움을 주신 분들</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">다음 경로에 추출되었습니다: </string>
@@ -66,6 +66,7 @@
     <!-- new strings -->
     <string name="tile_developer">디자인 &amp; 개발</string>
     <string name="title_translators">번역</string>
+    <string name="icon_credits">Icon Credits</string>
     <string name="summary_rate_us">추천하기</string>
     <string name="contact_us">개발자와 연락</string>
     <string name="no_matches_found">매칭된 것을 찾지 못했습니다</string>
@@ -81,5 +82,9 @@
     <string name="name_format_type_summary">추출된 앱의 이름 형식을 설정합니다</string>
     <string name="title_premium">프리미엄으로 전환</string>
     <string name="summary_go_premium">광고 제거</string>
+    <string name="select_all">모두 선택</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

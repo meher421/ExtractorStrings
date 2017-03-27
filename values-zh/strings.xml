@@ -30,8 +30,8 @@
     <string name="summmay_on">展示所有应用列表</string>
     <string name="summmay_off">用户安装和系统自带应用分开显示</string>
     <string name="summary_file_saved_path">\u003c 无SD卡 \u003e</string>
-    <!-- < no sdcard > -->
     <string name="title_about">关于我们</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">提取路径:</string>
@@ -46,6 +46,7 @@
     <string name="str_directory_exists">文件夹已存在</string>
     <string name="str_invalid_dir_create">无法在这里创建文件夹</string>
     <string name="str_invalid_dir_set">无法保存此历史.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">提取失败，没有SD卡读写权限</string>
@@ -66,6 +67,7 @@
     <!-- new strings -->
     <string name="tile_developer">设计 &amp; 开发 </string>
     <string name="title_translators">翻译</string>
+    <string name="icon_credits">Icon Credits</string>
     <string name="summary_rate_us">向我们反馈和建议</string>
     <string name="contact_us">联系我们</string>
     <string name="no_matches_found">找不到匹配项</string>
@@ -81,5 +83,9 @@
     <string name="name_format_type_summary">提取应用的命名规则</string>
     <string name="title_premium">高级选项</string>
     <string name="summary_go_premium">删除广告</string>
+    <string name="select_all">Select All</string>    
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

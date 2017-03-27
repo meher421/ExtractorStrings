@@ -22,7 +22,6 @@
     <string name="check">Controleer</string> <!-- I translated check as in the verb "to check"-->
     <string name="extract">Uitpakken</string>
     <string name="share">Deel</string>
-    <string name="select_all">Selecteer alles</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Bewaard pad</string>
@@ -32,6 +31,7 @@
     <string name="summmay_off">Gebruiker geïnstalleerde en Systeem geïnstalleerde applicaties zijn gecategoriseerd </string>
     <string name="summary_file_saved_path">&lt; geen sdcard &gt;</string>
     <string name="title_about">Over ons</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Uitgepakt naar map :</string>
@@ -66,6 +66,7 @@
     <!-- new strings -->
     <string name="tile_developer">ONTWORPEN &amp; ONTWIKKELD DOOR </string>
     <string name="title_translators">VERTALINGEN DOOR</string>
+    <string name="icon_credits">Icon Credits</string>
     <string name="summary_rate_us">Toon ons uw ondersteuning</string>
     <string name="contact_us">Contacteer ons</string>
     <string name="no_matches_found">Geen overeenkomsten gevonden</string>
@@ -81,5 +82,9 @@
     <string name="name_format_type_summary">Naamgeving voor uitgepakte applicate</string>
     <string name="title_premium">Schakel over naar Premium</string>
     <string name="summary_go_premium">Verwijder advertenties</string>
+    <string name="select_all">Selecteer alles</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

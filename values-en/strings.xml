@@ -22,7 +22,6 @@
     <string name="check">Check</string>
     <string name="extract">Extract</string>
     <string name="share">Share</string>
-    <string name="select_all">Select All</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Saved path</string>
@@ -31,14 +30,14 @@
     <string name="summmay_on">Displays all applications in a single list</string>
     <string name="summmay_off">User installed and System installed applications are categorized</string>
     <string name="summary_file_saved_path">\u003c no sdcard \u003e</string>
-    <!-- < no sdcard > -->
     <string name="title_about">About us</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Extracted to path :</string>
     <string name="share_msg">How do you want to share?</string>
-    <string name="extracting_msg">Extracting …</string>
-    <string name="loading_msg">Loading applications …</string>
+    <string name="extracting_msg">Extracting &#8230;</string>
+    <string name="loading_msg">Loading applications &#8230;</string>
     <string name="options_title_share">share</string>
     <string name="options_title_info">info</string>
     <string name="empty_folder">Empty Folder</string>
@@ -47,17 +46,18 @@
     <string name="str_directory_exists">Directory already exists</string>
     <string name="str_invalid_dir_create">Directory cannot be created here</string>
     <string name="str_invalid_dir_set">Cannot set this directory.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable</string>
-    <string name="MEDIA_CHECKING">Media scanning under progress</string>
-    <string name="MEDIA_NOFS">Cannot extract</string>
-    <string name="MEDIA_SHARED">Cannot Extract</string>
+    <string name="MEDIA_CHECKING">Media scanning under progress,please try again later.</string>
+    <string name="MEDIA_NOFS">Cannot extract,sdcard unsupported file system ! </string>
+    <string name="MEDIA_SHARED">Cannot Extract, sdcard is shared</string>
     <string name="MEDIA_REMOVED">Please insert sdcard and extract</string>
-    <string name="MEDIA_BAD_REMOVAL">Cannot extract</string>
-    <string name="MEDIA_UNKNOWN">Cannot extract</string>
-    <string name="MEDIA_UNMOUNTABLE">Cannot extract</string>
-    <string name="MEDIA_UNMOUNTED">Cannot extract</string>
+    <string name="MEDIA_BAD_REMOVAL">Cannot extract,sdcard is not supported</string>
+    <string name="MEDIA_UNKNOWN">Cannot extract,sdcard is not supported</string>
+    <string name="MEDIA_UNMOUNTABLE">Cannot extract,sdcard is not supported</string>
+    <string name="MEDIA_UNMOUNTED">Cannot extract,sdcard is not supported</string>
     <string name="error_msg">Error</string>
     <string name="str_button_ok">OK</string>
     <string name="str_button_cancel">Cancel</string>
@@ -67,20 +67,25 @@
     <!-- new strings -->
     <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
     <string name="title_translators">TRANSLATIONS BY</string>
+    <string name="icon_credits">Icon Credits</string>
     <string name="summary_rate_us">Show us your support</string>
     <string name="contact_us">Contact us</string>
     <string name="no_matches_found">No matches found</string>
 
     <string-array name="listarray">
-        <item>+ App Name</item>
-        <item>+ Package Name</item>
-        <item>+ Version</item>
-        <item>+ Version Code</item>
+       <item>+ App Name</item>
+       <item>+ Package Name</item>
+       <item>+ Version</item>
+       <item>+ Version Code</item>
     </string-array>
 
     <string name="file_name_format">Apk file name saving format</string>
     <string name="name_format_type_summary">Extracted application naming convention</string>
     <string name="title_premium">Go Premium</string>
     <string name="summary_go_premium">Removes advertisements</string>
+    <string name="select_all">Select All</string>    
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

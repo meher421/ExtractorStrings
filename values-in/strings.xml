@@ -22,7 +22,6 @@
     <string name="check">Check</string>
     <string name="extract">Ekstrak</string>
     <string name="share">Bagikan</string>
-    <string name="select_all">Pilih Semua</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Lokasi penyimpanan</string>
@@ -32,6 +31,7 @@
     <string name="summmay_off">Aplikasi pengguna dan Aplikasi sistem yang terpasang telah dikategorikan </string>
     <string name="summary_file_saved_path">&lt; tidak ada kartu memori &gt;</string>
     <string name="title_about">Tentang kami</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Telah diekstrak ke:</string>
@@ -46,6 +46,7 @@
     <string name="str_directory_exists">Direktori sudah ada</string>
     <string name="str_invalid_dir_create">Direktori tidak dapat dibuat disini</string>
     <string name="str_invalid_dir_set">Tidak dapat menerapkan direktori ini.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Tidak dapat mengekstrak! kartu memori tidak dapat ditulis</string>
@@ -66,6 +67,7 @@
     <!-- new strings -->
     <string name="tile_developer">DIDESAIN &amp; DIKEMBANGKAN OLEH </string>
     <string name="title_translators">DITERJEMAHKAN OLEH</string>
+    <string name="icon_credits">icon kredit</string>
     <string name="summary_rate_us">Tunjukkan pada kami dukungan Anda</string>
     <string name="contact_us">Hubungi Kami</string>
     <string name="no_matches_found">No matches found</string>
@@ -81,5 +83,9 @@
     <string name="name_format_type_summary">Konvensi penamaan aplikasi yang diekstrak</string>
     <string name="title_premium">Jadikan Premium</string>
     <string name="summary_go_premium">Hapus iklan</string>
+    <string name="select_all">Pilih Semua</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

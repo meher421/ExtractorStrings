@@ -22,8 +22,6 @@
     <string name="check">Žymėti</string>
     <string name="extract">Ištraukti</string>
     <string name="share">Dalintis</string>
-    <string name="select_all">Pasirinkti viską</string>
-
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Išsaugojimo vieta</string>
@@ -47,6 +45,7 @@
     <string name="str_directory_exists">Katal-ogas jau egzistuoja</string>
     <string name="str_invalid_dir_create">Katalogas čia negali būti sukurtas</string>
     <string name="str_invalid_dir_set">Neįmanoma nustatyti šio katalogo.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Ištraukti nepavyko ! SD kortelė nėra įrašoma</string>
@@ -67,6 +66,7 @@
     <!-- new strings -->
     <string name="tile_developer">SUPROJEKTAVO IR SUKURĖ </string>
     <string name="title_translators">PROGRAMĖLĘ VERTĖ</string>
+    <string name="icon_credits">Piktograma Kreditai</string>
     <string name="summary_rate_us">Parodykite mums savo paramą</string>
     <string name="contact_us">Susisiekite su mumis</string>
     <string name="no_matches_found">Nerasta atitikmenų</string>
@@ -82,5 +82,10 @@
     <string name="name_format_type_summary">Ištrauktų programėlių pavadinimo formulavimas</string>
     <string name="title_premium">Tapti Premium</string>
     <string name="summary_go_premium">Pašalina reklamas</string>
+    <string name="select_all">Pasirinkti viską</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
+
 
 </resources>

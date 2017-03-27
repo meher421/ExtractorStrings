@@ -22,7 +22,6 @@
     <string name="check">Sprawdź</string>
     <string name="extract">Eksportuj</string>
     <string name="share">udostępnij</string>
-    <string name="select_all">Zaznacz wszystko</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Folder zapisu</string>
@@ -46,6 +45,7 @@
     <string name="str_directory_exists">Folder aktualnie istnieje</string>
     <string name="str_invalid_dir_create">Folder nie może zostać tutaj utworzony</string>
     <string name="str_invalid_dir_set">Nie można ustawić tego folderu</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Błąs eksportowania! Karta SD jest niedostępna do zapisu</string>
@@ -66,6 +66,7 @@
     <!-- new strings -->
     <string name="tile_developer">PROJEKTOWANE &amp; ROZWIJANE PRZEZ </string>
     <string name="title_translators">Tłumaczenia</string>
+    <string name="icon_credits">Ikona kuponów</string>
     <string name="summary_rate_us">Pokaż nam swoje wsparcie!</string>
     <string name="contact_us">Skontaktuj się z nami</string>
     <string name="no_matches_found">Nie znaleziono żadnego meczu</string>
@@ -81,5 +82,9 @@
     <string name="name_format_type_summary">Konwencja nazywania ekstraktowanych APK</string>
     <string name="title_premium">Zaktualizuj do premium</string>
     <string name="summary_go_premium">Usuń reklamy</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

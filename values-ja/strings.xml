@@ -22,7 +22,7 @@
     <string name="check">チェック</string>
     <string name="extract">抽出</string>
     <string name="share">共有</string>
-    <string name="select_all">全て選択</string>
+
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">保存先</string>
@@ -31,8 +31,8 @@
     <string name="summmay_on">すべてのアプリケーションを1つのリストに表示する</string>
     <string name="summmay_off">ユーザーインストール済みおよびシステムインストール済みアプリケーションが分類されます。</string>
     <string name="summary_file_saved_path">\u003c Sdcardが挿入されていません \u003e</string>
-    <!-- < no sdcard > -->
     <string name="title_about">私達について</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">抽出が完了しました！ :</string>
@@ -47,6 +47,7 @@
     <string name="str_directory_exists">そのディレクトリーはすでに存在します。</string>
     <string name="str_invalid_dir_create">ディレクトリーを作成できません。</string>
     <string name="str_invalid_dir_set">そのディレクトリーにセットすることはできません。</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
     
 <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Sdcardへの書き込み許可が無い為、抽出できませんでした</string>
@@ -67,6 +68,7 @@
     <!-- new strings -->
     <string name="tile_developer">デザイナー &amp; 開発者</string>
     <string name="title_translators">翻訳者</string>
+    <string name="icon_credits">Icon Credits</string>
     <string name="summary_rate_us">サポート</string>
     <string name="contact_us">お問い合わせ</string>
     <string name="no_matches_found">一致するものが見つかりませんでした。</string>
@@ -82,5 +84,8 @@
     <string name="name_format_type_summary">抽出したアプリケーションの命名規則</string>
     <string name="title_premium">プレミアム版にする</string>
     <string name="summary_go_premium">広告を削除する</string>
+    <string name="select_all">全て選択</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
 
 </resources>

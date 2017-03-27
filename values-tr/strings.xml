@@ -22,7 +22,6 @@
     <string name="check">İşaretle</string>
     <string name="extract">Çıkar</string>
     <string name="share">Paylaş</string>
-    <string name="select_all">Hepsini seç</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Kayıt yeri</string>
@@ -32,6 +31,7 @@
     <string name="summmay_off">Kullanıcı yüklü ve Sistem yüklü uygulamalar sınıflandırılır</string>
     <string name="summary_file_saved_path">&lt; sdcard yok &gt;</string>
     <string name="title_about">About us</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Dosya yoluna çıkarıldı :</string>
@@ -66,6 +66,7 @@
     <!-- new strings -->
     <string name="tile_developer">TASARIMCI &amp; GELİŞTİRİCİ </string>
     <string name="title_translators">ÇEVİRİ YAPANLAR</string>
+    <string name="icon_credits">Simge Kredileri</string>
     <string name="summary_rate_us">Desteğinizi gösterin</string>
     <string name="contact_us">İletişim kurun</string>
     <string name="no_matches_found">Hiçbir sonuç bulunamadı</string>
@@ -81,4 +82,11 @@
     <string name="name_format_type_summary">Çıkarılan uygulama isim düzenlemesi</string>
     <string name="title_premium">Premium\'a geç</string>
     <string name="summary_go_premium">Reklamları kaldırır</string>
+    <string name="select_all">Hepsini seç</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
+
+
+
 </resources>

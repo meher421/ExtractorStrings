@@ -22,7 +22,6 @@
     <string name="check">Controllare</string>
     <string name="extract">estratto</string>
     <string name="share">quota</string>
-    <string name="select_all">Seleziona tutto</string>
 
     <!-- Settings Screen Strings -->
     <string name="title_file_saved_path">Percorso salvataggio</string>
@@ -31,8 +30,8 @@
     <string name="summmay_on">Visualizza tutte le applicazioni in un elenco</string>
     <string name="summmay_off">Le applicazioni utente e di sistema sono categorizzate</string>
     <string name="summary_file_saved_path">&lt; no sdcard &gt;</string>
-    <!-- < no sdcard > -->
     <string name="title_about">chi siamo</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">App salvata nel file :</string>
@@ -67,6 +66,7 @@
     <!-- new strings -->
     <string name="tile_developer">SVILUPPATO E DISEGNATO DA </string>
     <string name="title_translators">TRADUZIONI DI</string>
+    <string name="icon_credits">titoletto riconoscimenti</string>
     <string name="summary_rate_us">Aiutaci con la tua valutazione</string>
     <string name="contact_us">Contattaci</string>
     <string name="no_matches_found">Nessuna corrispondenza trovata</string>
@@ -82,5 +82,9 @@
     <string name="name_format_type_summary">Convenzione nome applicazione estratta</string>
     <string name="title_premium">Acquista Premium</string>
     <string name="summary_go_premium">Rimuovi pubblicità</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>

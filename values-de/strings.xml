@@ -22,7 +22,6 @@
     <string name="check">Check</string>
     <string name="extract">Extrahieren</string>
     <string name="share">Teilen</string>
-    <string name="select_all">Alles auswählenl</string>
 
     <!-- Settings screen Strings -->
     <string name="title_file_saved_path">Speicherort</string>
@@ -32,6 +31,7 @@
     <string name="summmay_off">Installierte Benutzer- und Systemanwendungen kategorisieren</string>
     <string name="summary_file_saved_path">&lt; keine SD-Karte &gt;</string>
     <string name="title_about">Über uns</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Extrahiert in Verzeichnis:</string>
@@ -46,6 +46,7 @@
     <string name="str_directory_exists">Verzeichnis existiert bereits.</string>
     <string name="str_invalid_dir_create">Verzeichnis kann hier nicht erstellt werden.</string>
     <string name="str_invalid_dir_set">Verzeichnis kann nicht gewählt werden.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Extrahieren fehlgeschlagen. SD-Karte ist nicht beschreibbar.</string>
@@ -66,6 +67,7 @@
     <!-- new strings -->
     <string name="tile_developer">DESIGNT &amp; ENTWICKELT VON </string>
     <string name="title_translators">ÜBERSETZUNGEN VON</string>
+    <string name="icon_credits">Icon Gutschriften</string>
     <string name="summary_rate_us">Unterstütze uns</string>
     <string name="contact_us">Kontaktieren</string>
     <string name="no_matches_found">No matches found</string>
@@ -81,5 +83,9 @@
     <string name="name_format_type_summary">Namenskonvention für extrahierte App</string>
     <string name="title_premium">Nutze Premium</string>
     <string name="summary_go_premium">Werbefrei</string>
+    <string name="select_all">Alles auswählenl</string>
+    <string name="storage_perm_grant">Storage Permission Granted.</string>
+    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>
