@@ -31,7 +31,7 @@
     <string name="summmay_off">Categorizar las aplicaciones descargadas y las del sistema</string>
     <string name="summary_file_saved_path">&lt; no hay tarjeta de memoria &gt;</string>
     <string name="title_about">Acerca de</string>
-    <string name="auto_bkp_title">Auto-Backup</string>
+    <string name="auto_bkp_title">Auto-respaldo</string>
 
     <!-- messages -->
     <string name="extract_success">Extraido en la carpeta :</string>
@@ -46,7 +46,7 @@
     <string name="str_directory_exists">La carpeta ya existe</string>
     <string name="str_invalid_dir_create">La carpeta no se puede crear aquí</string>
     <string name="str_invalid_dir_set">No se puede crear la carpeta</string>
-    <string name="msg_auto_bkp">Auto backup applications in background</string>
+    <string name="msg_auto_bkp">Automáticamente respaldar aplicaciones en segundo plano</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">No se puede extraer, memoria protegida.</string>
@@ -84,8 +84,8 @@
     <string name="title_premium">Cambiar a Premium</string>
     <string name="summary_go_premium">Elimina publicidad</string>
     <string name="select_all">Seleccionar todo</string>
-    <string name="storage_perm_grant">Storage Permission Granted.</string>
-    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+    <string name="storage_perm_grant">Permisos de almacenamiento otorgados.</string>
+    <string name="storage_perm_denied">No se puede extraer el APK, permisos de almacenamiento denegados.</string>
 
 
 </resources>
