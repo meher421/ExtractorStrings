@@ -32,7 +32,7 @@
     <string name="summmay_off">ユーザーインストール済みおよびシステムインストール済みアプリケーションが分類されます。</string>
     <string name="summary_file_saved_path">\u003c Sdcardが挿入されていません \u003e</string>
     <string name="title_about">私達について</string>
-    <string name="auto_bkp_title">Auto-Backup</string>
+    <string name="auto_bkp_title">自動バックアップ</string>
 
     <!-- messages -->
     <string name="extract_success">抽出が完了しました！ :</string>
@@ -47,7 +47,7 @@
     <string name="str_directory_exists">そのディレクトリーはすでに存在します。</string>
     <string name="str_invalid_dir_create">ディレクトリーを作成できません。</string>
     <string name="str_invalid_dir_set">そのディレクトリーにセットすることはできません。</string>
-    <string name="msg_auto_bkp">Auto backup applications in background</string>
+    <string name="msg_auto_bkp">バックグラウンドでアプリの自動バックアップを行う</string>
     
 <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Sdcardへの書き込み許可が無い為、抽出できませんでした</string>
@@ -85,7 +85,7 @@
     <string name="title_premium">プレミアム版にする</string>
     <string name="summary_go_premium">広告を削除する</string>
     <string name="select_all">全て選択</string>
-    <string name="storage_perm_grant">Storage Permission Granted.</string>
-    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+    <string name="storage_perm_grant">ストレージの書き込み権限がこのアプリに与えられました。</string>
+    <string name="storage_perm_denied">ストレージへの書き込み許可が与えられていないため、APKを抽出できませんでした。</string>
 
 </resources>
