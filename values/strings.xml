@@ -48,6 +48,7 @@
     <string name="str_invalid_dir_set">Cannot set this directory.</string>
     <string name="msg_auto_bkp">Auto backup applications in background</string>
 
+
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable</string>
     <string name="MEDIA_CHECKING">Media scanning under progress,please try again later.</string>

@@ -31,6 +31,7 @@
     <string name="summmay_off">Потребителските и системните приложения са категоризирани</string>
     <string name="summary_file_saved_path">&lt; няма SD карта &gt;</string>
     <string name="title_about">За нас</string>
+    <string name="auto_bkp_title">Auto-Backup</string>
 
     <!-- messages -->
     <string name="extract_success">Извлечено в папка :</string>
@@ -45,6 +46,8 @@
     <string name="str_directory_exists">Папка със същото име вече съществува.</string>
     <string name="str_invalid_dir_create">Тук не може да се създаде папка.</string>
     <string name="str_invalid_dir_set">Тази папка не може да се зададе.</string>
+    <string name="msg_auto_bkp">Auto backup applications in background</string>
+
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">Не може да се извлече! SD картата не позволява записване.</string>
@@ -81,7 +84,9 @@
     <string name="name_format_type_summary">Начин на наименуване на извлечения APK файл</string>
     <string name="title_premium">Преминете към Премиум</string>
     <string name="summary_go_premium">Премахва рекламите</string>
+    <string name="select_all">Select All</string>    
     <string name="storage_perm_grant">Storage Permission Granted.</string>
     <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+
 
 </resources>
