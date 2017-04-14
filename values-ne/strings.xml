@@ -67,7 +67,7 @@
     <!-- new strings -->
     <string name="tile_developer">डिजाईन &amp; डिभेलपएद बाइ </string>
     <string name="title_translators">अनुवाद गर्ने</string>
-    <string name="icon_credits">Icon Credits</string>
+    <string name="icon_credits">प्रतिमा श्रेय</string>
     <string name="summary_rate_us">हामीलाई आफ्नो समर्थन</string>
     <string name="contact_us">हामीलाई सम्पर्क गर्नुहोस</string>
     <string name="no_matches_found">कुनै पनि मेल पाइएन</string>
@@ -84,8 +84,8 @@
     <string name="title_premium">प्रिमियम जानुस्</string>
     <string name="summary_go_premium">विज्ञापनमा हटाउँछ</string>
     <string name="select_all">सबै छान्नु</string>
-    <string name="storage_perm_grant">Storage Permission Granted.</string>
-    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+    <string name="storage_perm_grant">भण्डारण अनुमति प्रदान</string>
+    <string name="storage_perm_denied">एपीके निकाल्न  सकिएन ,  भण्डारण अनुमति दिनुस</string>
 
 
 </resources>
