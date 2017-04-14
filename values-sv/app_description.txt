@@ -1,0 +1,13 @@
+<b>APK Extractor</b> extraherar APK-filer av appar installerade på din enhet och kopierar dem till ditt sd-kort.
+
+★ Snabb och enkel att använda.
+★ Extraherar nästan alla appar, inklusive systemapplikationer.
+★ Behöver inte ROOT-åtkomst.
+★ Som standard sparas APK-filerna i <b>/sdcard/ExtractedApks/.</b>
+★ Har en sökfunktion för att söka efter appar.
+★ Kompatibel med Android 7.0
+★ APK filformat <b>AppName_AppPackage_AppVersionName_AppVersionCode.apk.</b>
+★ Kan extrahera flera/alla APK-filer genom att trycka och hålla inne på et objekt.
+
+
+Intresserad av att översätta appen till olika språk? Basen finns på GitHub https://github.com/meher421/ExtractorStrings/tree/master/values . Vänligen mejla mig översatta fraser.
