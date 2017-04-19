@@ -31,6 +31,7 @@
     <string name="summmay_off">Aplikacje zainstalowane przez użytkownika oraz systemowe będą podzielone</string>
     <string name="summary_file_saved_path">&lt; brak karty SD &gt;</string>
     <string name="title_about">O nas</string>
+    <string name="auto_bkp_title">Automatyczna Kopia Zapasowa</string><!-- Was this line missing intentionally? -->
 
     <!-- messages -->
     <string name="extract_success">Wyeksportowane do:</string>
@@ -45,10 +46,10 @@
     <string name="str_directory_exists">Folder aktualnie istnieje</string>
     <string name="str_invalid_dir_create">Folder nie może zostać tutaj utworzony</string>
     <string name="str_invalid_dir_set">Nie można ustawić tego folderu</string>
-    <string name="msg_auto_bkp">Auto backup applications in background</string>
+    <string name="msg_auto_bkp">Aplikacje automatycznej kopii zapasowej w tle</string>
 
     <!-- error messages -->
-    <string name="MEDIA_MOUNTED_READ_ONLY">Błąs eksportowania! Karta SD jest niedostępna do zapisu</string>
+    <string name="MEDIA_MOUNTED_READ_ONLY">Błąd eksportowania! Karta SD jest niedostępna do zapisu</string>
     <string name="MEDIA_CHECKING">Skanowanie mediów trwa, spróbuj za chwilę</string>
     <string name="MEDIA_NOFS">Błąd eksportowania! Nieprawidłowy system plików karty SD</string>
     <string name="MEDIA_SHARED">Nie można eksportować, karta SD jest używana</string>
@@ -66,25 +67,25 @@
     <!-- new strings -->
     <string name="tile_developer">PROJEKTOWANE &amp; ROZWIJANE PRZEZ </string>
     <string name="title_translators">Tłumaczenia</string>
-    <string name="icon_credits">Ikona kuponów</string>
-    <string name="summary_rate_us">Pokaż nam swoje wsparcie!</string>
+    <string name="icon_credits">Ikona Współpraca</string>
+    <string name="summary_rate_us">Pokaż nam swoje wsparcie</string>
     <string name="contact_us">Skontaktuj się z nami</string>
-    <string name="no_matches_found">Nie znaleziono żadnego meczu</string>
+    <string name="no_matches_found">Nie znaleziono pasujących wartości</string>
 
     <string-array name="listarray">
-        <item>+ App Name</item>
-        <item>+ Package Name</item>
-        <item>+ Version</item>
-        <item>+ Version Code</item>
+        <item>+ Nazwa Aplikacji</item>
+        <item>+ Nazwa Pakietu</item>
+        <item>+ Wersja</item>
+        <item>+ Kod Wersji</item>
     </string-array>
 
     <string name="file_name_format">Format nazwy zapisanego pliku APK</string>
-    <string name="name_format_type_summary">Konwencja nazywania ekstraktowanych APK</string>
+    <string name="name_format_type_summary">Konwencja nazywania rozpakowanych APK</string>
     <string name="title_premium">Zaktualizuj do premium</string>
     <string name="summary_go_premium">Usuń reklamy</string>
     <string name="select_all">Zaznacz wszystko</string>
-    <string name="storage_perm_grant">Storage Permission Granted.</string>
-    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+    <string name="storage_perm_grant">Dostęp do Pamięci Zapisu Przyznany.</string>
+    <string name="storage_perm_denied">Nie Można Rozpakować Pliku APK, Brak Dostępu do Pamięci Zapisu.</string>
 
 
 </resources>
