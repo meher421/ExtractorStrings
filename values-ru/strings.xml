@@ -29,9 +29,9 @@
     <string name="title_version">Версия</string>
     <string name="summmay_on">Показать все приложения в одном списке</string>
     <string name="summmay_off">Установленные приложения пользователя и системные приложения распределены по категориям</string>
-    <string name="summary_file_saved_path">&lt; отсутствует карта памяти ></string>
+    <string name="summary_file_saved_path">&lt; отсутствует карта памяти &gt;</string>
     <string name="title_about">О нас</string>
-
+    <string name="auto_bkp_title">Автоматическое резервирование</string>
 
     <!-- messages -->
     <string name="extract_success">Извлечено в:</string>
@@ -46,7 +46,7 @@
     <string name="str_directory_exists">Директория уже существует</string>
     <string name="str_invalid_dir_create">Директория не может быть создана</string>
     <string name="str_invalid_dir_set">Невозможно установить директорию</string>
-    <string name="msg_auto_bkp">Auto backup applications in background</string>
+    <string name="msg_auto_bkp">Автоматическое создание резервных копий приложений в фоне</string>
 
     <!-- error messages -->
     <string name="MEDIA_BAD_REMOVAL">Невозможно извлечь, не поддерживается карта памяти</string>
@@ -62,12 +62,12 @@
     <string name="str_button_ok">ОК</string>
     <string name="str_button_cancel">Отмена</string>
     <string name="dialog_title_directory_name">Наименование директории</string>
-    <string name="summary_no_sdcard">&lt; отсутствует карта памяти -></string>
+    <string name="summary_no_sdcard">&lt; отсутствует карта памяти -&gt;</string>
 
     <!-- new strings -->
     <string name="tile_developer">ДИЗАЙН &amp; РАЗРАБОТКА</string>
     <string name="title_translators">ПЕРЕВЕЛИ</string>
-    <string name="icon_credits">значок Кредиты</string>
+    <string name="icon_credits">Дизайн значков</string>
     <string name="summary_rate_us">Поддержать</string>
     <string name="contact_us">Контакты</string>
     <string name="no_matches_found">Совпадений не найдено</string>
@@ -79,13 +79,13 @@
         <item>+ Версия API</item>
     </string-array>
 
-    <string name="file_name_format">Формат сохранения приложения</string>
-    <string name="name_format_type_summary">Формат извлечения приложения</string>
+    <string name="file_name_format">Формат сохранения APK файлов</string>
+    <string name="name_format_type_summary">Формат наименования извлеченных приложений</string>
     <string name="title_premium">Получить ПРЕМИУМ версию</string>
     <string name="summary_go_premium">Удалить рекламу</string>
     <string name="select_all">Выбрать все</string>
-    <string name="storage_perm_grant">Storage Permission Granted.</string>
-    <string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+    <string name="storage_perm_grant">Доступ к хранилищу разрешён.</string>
+    <string name="storage_perm_denied">Невозможно извлечь APK. Доступ к хранилищу запрещён.</string>
 
 
 </resources>
