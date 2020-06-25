@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- global messages -->
+    <string name="app_name">Apk Extractor</string>
+
+    <!-- Menu Strings and messages -->
+    <string name="action_search">Пошук</string>
+    <string name="acton_rate_us">Оцінити</string>
+    <string name="action_file">файл</string>
+    <string name="action_share">поділитися</string>
+    <string name="str_show_system_apps">Показати системні додатки</string>
+    <string name="str_show_user_apps">Показати додатки користувача</string>
+    <string name="show_all_apps_title">Показати всі додатки</string>
+    <string name="settings">Налаштування</string>
+
+    <!-- menu icon text -->
+    <string name="checkbox">прапорець</string>
+    <string name="options">опції</string>
+    <string name="icon">іконка</string>
+    <string name="file">файл</string>
+    <string name="check">Перевірити</string>
+    <string name="extract">Витягти</string>
+    <string name="share">Поділитися</string>
+
+    <!-- Settings screen Strings -->
+    <string name="title_file_saved_path">Зберегти до</string>
+    <string name="title_rate_us">Оцінити</string>
+    <string name="title_version">Версія</string>
+    <string name="summmay_on">Відобразити всі додатки в одному списку</string>
+    <string name="summmay_off">Встановлені додатки користувача та системні додатки, розподілені за категоріями</string>
+    <string name="summary_file_saved_path">&lt; відсутня карта пам'яті &gt;</string>
+    <string name="title_about">Про нас</string>
+    <string name="auto_bkp_title">Автоматичне резервування</string>
+
+
+    <!-- messages -->
+    <string name="extract_success">Витягнено до:</string>
+    <string name="share_msg">Як бажаєте поділитися?</string>
+    <string name="extracting_msg">Витягується &#8230;</string>
+    <string name="loading_msg">Завантаження додатків &#8230;</string>
+    <string name="options_title_share">Поділитися</string>
+    <string name="options_title_info">Інформація</string>
+    <string name="empty_folder">Порожня директорія</string>
+    <string name="create_directory">Створити</string>
+    <string name="set_dir_path">Встановити</string>
+    <string name="str_directory_exists">Директорія вже існує</string>
+    <string name="str_invalid_dir_create">Неможливо створити тут директорію</string>
+    <string name="str_invalid_dir_set">Неможливо встановити директорію</string>
+    <string name="msg_auto_bkp">Автоматичне резервування додатків у фоні</string>
+
+    <!-- error messages -->
+    <string name="MEDIA_BAD_REMOVAL">Неможливо витягти. Карта пам'яті була вилучена некоректно.</string>
+    <string name="MEDIA_CHECKING">Карта пам'яті сканується, спробуйте пізніше.</string>
+    <string name="MEDIA_MOUNTED_READ_ONLY">Неможливо витягти. Карта пам'яті доступна лише на читання.</string>
+    <string name="MEDIA_NOFS">Неможливо витягти. Помилка файлової системи.</string>
+    <string name="MEDIA_REMOVED">Карта пам'яті відсутня.</string>
+    <string name="MEDIA_SHARED">Неможливо витягти. Карта пам'яті відкрита для доступу через USB.</string>
+    <string name="MEDIA_UNKNOWN">Неможливо витягти. Невідомий стан карти пам'яті.</string>
+    <string name="MEDIA_UNMOUNTED">Неможливо витягти. Карта пам'яті не змонтована.</string>
+    <string name="MEDIA_UNMOUNTABLE">Неможливо витягти. Карту пам'яті неможливо змонтувати (зіпсована файлова система?).</string>
+    <string name="error_msg">Помилка</string>
+    <string name="str_button_ok">ОК</string>
+    <string name="str_button_cancel">Скасувати</string>
+    <string name="dialog_title_directory_name">Назва директорії</string>
+    <string name="summary_no_sdcard">&lt; карта пам'яті відсутня -&gt;</string>
+
+    <!-- new strings -->
+    <string name="tile_developer">ДИЗАЙН &amp; РОЗРОБКА </string>
+    <string name="title_translators">ПЕРЕКЛАД</string>
+    <string name="icon_credits">Іконки</string>
+    <string name="summary_rate_us">Підтримати</string>
+    <string name="contact_us">Контакти</string>
+    <string name="no_matches_found">Співпадань не знайдено</string>
+
+    <string-array name="listarray">
+        <item>+ Назва додатку</item>
+        <item>+ Унікальна назва пакета</item>
+        <item>+ Версія додатка</item>
+        <item>+ Версія API</item>
+    </string-array>
+
+    <string name="file_name_format">Формат збереження APK файлів</string>
+    <string name="name_format_type_summary">Формат найменування витягнених додатків</string>
+    <string name="title_premium">ПРЕМІУМ версія</string>
+    <string name="summary_go_premium">Видалити рекламу</string>
+    <string name="select_all">Вибрати все</string>
+    <string name="storage_perm_grant">Надано доступ до сховища.</string>
+    <string name="storage_perm_denied">Неможливо витягти. Доступ до сховища заборонено.</string>
+
+
+</resources>
