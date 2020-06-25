@@ -47,7 +47,7 @@
     <string name="str_directory_exists">Директорія вже існує</string>
     <string name="str_invalid_dir_create">Неможливо створити тут директорію</string>
     <string name="str_invalid_dir_set">Неможливо встановити директорію</string>
-    <string name="msg_auto_bkp">Автоматичне резервування додатків у фоні</string>
+    <string name="msg_auto_bkp">Автоматичне створення резервних копій додатків у фоні</string>
 
     <!-- error messages -->
     <string name="MEDIA_BAD_REMOVAL">Неможливо витягти. Карта пам'яті була вилучена некоректно.</string>
