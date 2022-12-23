@@ -31,7 +31,7 @@
     <string name="summmay_off">المستخدم تثبيت ويتم تصنيف تطبيقات نظام تثبيت </string>
     <string name="summary_file_saved_path">&lt; لا توجد بطاقة الذاكرة &gt;</string>
     <string name="title_about">معلومات عنا</string>
-    <string name="auto_bkp_title">Auto-Backup</string>
+    <string name="auto_bkp_title">النسخ الإحتياطي التلقائي</string>
 
     <!-- messages -->
     <string name="extract_success">استخراج إلى مسار :</string>
@@ -46,7 +46,7 @@
     <string name="str_directory_exists">الدليل موجود بالفعل</string>
     <string name="str_invalid_dir_create">لا يمكن إنشاء الدليل هنا</string>
     <string name="str_invalid_dir_set">لا يمكن أن تحدد هذا الدليل.</string>
-    <string name="msg_auto_bkp">Auto backup applications in background</string>
+    <string name="msg_auto_bkp">النسخ الإحتياطي التلقائي للتطبيقات يعمل الأن في الخلفية</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">لا يمكن استخراج! بطاقة الذاكرة الرقمية المؤمنة غير قابل للكتابة</string>
@@ -84,8 +84,8 @@
     <string name="name_format_type_summary">اصلاح التسمية تطبيق المستخرج</string>
     <string name="title_premium">نسخة متطورة</string>
     <string name="summary_go_premium">إزالة الإعلانات</string>
-    <string name="summary_go_premium">Removes advertisements</string>
-    <string name="select_all">Select All</string>    
-    <string name="storage_perm_grant">Storage Permission Granted.</string><string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+    <string name="summary_go_premium">قم بإزالة الإعلانات</string>
+    <string name="select_all">تحديد الكل</string>    
+    <string name="storage_perm_grant">منح إذن التخزين.</string><string name="storage_perm_denied">لا يمكن استخراج APK ، تم رفض إذن التخزين.</string>
 
 </resources>
