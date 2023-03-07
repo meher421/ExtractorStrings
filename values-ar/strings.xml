@@ -15,7 +15,7 @@
     <string name="settings">إعدادات</string>
 
     <!-- menu icon text -->
-    <string name="checkbox">خانة اختيار</string>
+    <string name="checkbox">خانة الإختيار</string>
     <string name="options">خيارات</string>
     <string name="icon">أيقونة</string>
     <string name="file">ملف</string>
@@ -31,7 +31,7 @@
     <string name="summmay_off">المستخدم تثبيت ويتم تصنيف تطبيقات نظام تثبيت </string>
     <string name="summary_file_saved_path">&lt; لا توجد بطاقة الذاكرة &gt;</string>
     <string name="title_about">معلومات عنا</string>
-    <string name="auto_bkp_title">Auto-Backup</string>
+    <string name="auto_bkp_title">نسخ الإحتياطي التلقائي</string>
 
     <!-- messages -->
     <string name="extract_success">استخراج إلى مسار :</string>
@@ -46,11 +46,11 @@
     <string name="str_directory_exists">الدليل موجود بالفعل</string>
     <string name="str_invalid_dir_create">لا يمكن إنشاء الدليل هنا</string>
     <string name="str_invalid_dir_set">لا يمكن أن تحدد هذا الدليل.</string>
-    <string name="msg_auto_bkp">Auto backup applications in background</string>
+    <string name="msg_auto_bkp">نسخ الإحتياطي للتطبيقات بعمل الأن في الخلفية</string>
 
     <!-- error messages -->
     <string name="MEDIA_MOUNTED_READ_ONLY">لا يمكن استخراج! بطاقة الذاكرة الرقمية المؤمنة غير قابل للكتابة</string>
-    <string name="MEDIA_CHECKING">فحص وسائل الإعلام في ظل التقدم، يرجى المحاولة مرة أخرى في وقت لاحق.</string>
+    <string name="MEDIA_CHECKING">فحص الوسائط في ظل التقدم، يرجى المحاولة مرة أخرى في وقت لاحق.</string>
     <string name="MEDIA_NOFS">لا يمكن استخراج بطاقة الذاكرة الرقمية المؤمنة نظام ملف غير معتمد ! </string>
     <string name="MEDIA_SHARED">لا يمكن استخراج، ويشارك بطاقة الذاكرة الرقمية المؤمنة</string>
     <string name="MEDIA_REMOVED">الرجاء إدخال بطاقة الذاكرة الرقمية المؤمنة واستخراج</string>
@@ -58,16 +58,16 @@
     <string name="MEDIA_UNKNOWN">لا يمكن استخراج، لا يتم اعتماد بطاقة الذاكرة الرقمية المؤمنة</string>
     <string name="MEDIA_UNMOUNTABLE">لا يمكن استخراج، لا يتم اعتماد بطاقة الذاكرة الرقمية المؤمنة</string>
     <string name="MEDIA_UNMOUNTED">لا يمكن استخراج، لا يتم اعتماد بطاقة الذاكرة الرقمية المؤمنة</string>
-    <string name="error_msg">خطأ</string>
+    <string name="error_msg">حدث خطأ</string>
     <string name="str_button_ok">موافق</string>
     <string name="str_button_cancel">إلغاء الأمر</string>
     <string name="dialog_title_directory_name">اسم الدليل</string>
     <string name="summary_no_sdcard"> &lt; لا توجد بطاقة الذاكرة -&gt; </string>
 
     <!-- new strings -->
-    <string name="tile_developer">مصممة &amp; طورت بواسطة </string>
+    <string name="tile_developer">مصمم &amp; طورت بواسطة </string>
     <string name="title_translators">Marwan AL-sidi: ترجمة من قبل</string>
-    <string name="icon_credits">Icon Credits</string>
+    <string name="icon_credits">رمز الاعتمادات</string>
     <string name="summary_rate_us">تبين لنا دعمكم</string>
     <string name="contact_us">اتصل بنا</string>
     <string name="no_matches_found">لم يتم العثور على تطابق</string>
@@ -82,10 +82,10 @@
 
     <string name="file_name_format">Apk اسم الملف حفظ صيغة</string>
     <string name="name_format_type_summary">اصلاح التسمية تطبيق المستخرج</string>
-    <string name="title_premium">نسخة متطورة</string>
+    <string name="title_premium">نسخة المتطورة</string>
     <string name="summary_go_premium">إزالة الإعلانات</string>
-    <string name="summary_go_premium">Removes advertisements</string>
-    <string name="select_all">Select All</string>    
-    <string name="storage_perm_grant">Storage Permission Granted.</string><string name="storage_perm_denied">Cannot Extract Apk, Storage Permission denied.</string>
+    <string name="summary_go_premium">إزالة الإعلانات</string>
+    <string name="select_all">تحديد الكـل</string>    
+    <string name="storage_perm_grant">تم منح إذن التخزين.</string><string name="storage_perm_denied">لا يمكنك استخراج التطبيق، تم رفض الإذن التخزين.</string>
 
 </resources>
